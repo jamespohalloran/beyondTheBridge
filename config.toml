@@ -37,14 +37,10 @@ source = "img/pic07.jpg"
 title = "Orci Convallis"
 url = "#"
 [[params.social]]
-icon = ""
-link = "https://www.instagram.com/beyondthebridgetherapy/"
-medium = ""
-[[params.social]]
 icon = "twitter"
 link = "#"
 medium = "twitter"
 [[params.social]]
 icon = "facebook"
-link = "#https://www.facebook.com/BeyondtheBridgeTherapy/?ref=aymt_homepage_panel"
+link = "#"
 medium = "facebook"
