@@ -15,6 +15,9 @@ template = "feature-description"
 [[blocks]]
 template = "about-profiles"
 [[blocks]]
+heading = "Contact Us"
+sendButtonText = "Send Message"
+subheading = "Any questions? Looking to request a booking? "
 template = "contact"
 
 +++
