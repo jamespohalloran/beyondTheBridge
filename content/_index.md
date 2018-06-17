@@ -9,6 +9,8 @@ template = "hero"
 link = "#portfolio"
 text = "See more"
 [[blocks]]
+heading = "Mission Statement"
+subheading = "Here's my mission statement. Here's my mission statement. Here's my mission statement. Here's my mission statement. Here's my mission statement. Here's my mission statement. Here's my mission statement. "
 template = "feature-description"
 [[blocks]]
 template = "about-profiles"
