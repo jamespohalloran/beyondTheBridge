@@ -11,3 +11,5 @@ fields:
   - aboutprofiles
   - featuredescription
   - hero-section
+pages:
+- content/index.md
