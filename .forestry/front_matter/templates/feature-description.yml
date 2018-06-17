@@ -13,3 +13,7 @@ fields:
 - type: text
   name: subheading
   label: subheading
+- type: text
+  name: sectionid
+  label: section id
+  description: used for if you want to link to this section.
