@@ -7,7 +7,7 @@ fields:
   label: blocks
   description: sections used on page
   template_types:
-  - hero-section-d3c77c9e-8293-448e-a805-196faf458061
+  - hero
   - contact
   - about-profiles
   - feature-description

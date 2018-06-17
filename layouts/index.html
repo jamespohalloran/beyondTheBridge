@@ -13,7 +13,7 @@
 	<div id="main">
 
 				{{- range .Params.blocks -}}
-						{{- if eq .template "hero-section" -}}{{ partial "blocks/hero" (dict "Params" .) }}{{- end -}}
+						{{- if eq .template "hero" -}}{{ partial "blocks/hero" (dict "Params" .) }}{{- end -}}
 						{{- if eq .template "feature-description" -}}{{ partial "blocks/feature-description" (dict "Params" .) }}{{- end -}}
 						{{- if eq .template "about-profiles" -}}{{ partial "blocks/about-profiles" (dict "Params" .) }}{{- end -}}
 						{{- if eq .template "contact" -}}{{ partial "blocks/contact" (dict "Params" .) }}{{- end -}}

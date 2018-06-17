@@ -5,5 +5,5 @@ fields:
 - type: text
   name: template
   label: template
-  default: hero-section
+  default: hero
   hidden: true
