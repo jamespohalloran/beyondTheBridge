@@ -7,3 +7,16 @@ fields:
   label: template
   default: about-profiles
   hidden: true
+- type: field_group_list
+  name: partners
+  label: partners
+  fields:
+  - type: text
+    name: name
+    label: name
+  - type: file
+    name: img
+    label: img
+  - type: textarea
+    name: bio
+    label: bio
