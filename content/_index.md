@@ -28,11 +28,11 @@ template = "about-profiles"
 [[blocks.partners]]
 bio = "katie is cool. katie is cool. katie is cool. katie is cool. katie is cool. katie is cool. "
 img = "/uploads/dog.jpeg"
-name = "katie murray"
+name = "Katie Murray"
 [[blocks.partners]]
 bio = "katie is cool. katie is cool. katie is cool. katie is cool. katie is cool. katie is cool. katie is cool. katie is cool. katie is cool. "
 img = "/uploads/dog.jpeg"
-name = "blah blah"
+name = "Katie Murray"
 [[blocks]]
 heading = "Contact Us"
 sendButtonText = "Send Message"

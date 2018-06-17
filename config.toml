@@ -4,8 +4,34 @@ theme = "prologue"
 title = "Prologue"
 [params]
 copyright = "Untitled."
-description = "gujkgjk"
+description = "a cool company"
 name = "Beyond the Bridge Therapy Centre"
+logo = "img/avatar.jpg"
+[[params.sidemenus]]
+id="portfolio-link"
+link = "#portfolio"
+text = "Mission Statement"
+icon = "fa-th"
+[[params.sidemenus]]
+id="about-link"
+link = "#skill1"
+text = "EMDR"
+icon = "fa-user"
+[[params.sidemenus]]
+id="about-link"
+link = "#skill2"
+text = "Art Therapy"
+icon = "fa-user"
+[[params.sidemenus]]
+id="about-link"
+link = "#about"
+text = "About Us"
+icon = "fa-user"
+[[params.sidemenus]]
+id="contact-link"
+link = "#contact"
+text = "Contact"
+icon = "fa-envelope"
 [[params.portfolio1]]
 alt = ""
 source = "img/pic02.jpg"
