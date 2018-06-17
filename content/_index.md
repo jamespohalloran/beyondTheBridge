@@ -25,6 +25,11 @@ subheading = "Here is a sentence about art therapy. Here is a sentence about art
 template = "feature-description"
 [[blocks]]
 template = "about-profiles"
+[[blocks.partners]]
+bio = "katie is cool. katie is cool. katie is cool. katie is cool. katie is cool. katie is cool. "
+img = "/uploads/dog.jpeg"
+name = "katie murray"
+[[blocks.partners]]
 [[blocks]]
 heading = "Contact Us"
 sendButtonText = "Send Message"
