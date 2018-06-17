@@ -5,8 +5,5 @@ fields:
 - type: text
   name: template
   label: template
-  default: hero
+  default: hero-section
   hidden: true
-- type: text
-  name: heading
-  label: heading
