@@ -11,7 +11,6 @@
 
 	<!-- Main -->
 	<div id="main">
-
 				{{- range .Params.blocks -}}
 						{{- if eq .template "hero" -}}{{ partial "blocks/hero" (dict "Params" .) }}{{- end -}}
 						{{- if eq .template "feature-description" -}}{{ partial "blocks/feature-description" (dict "Params" .) }}{{- end -}}
