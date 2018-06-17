@@ -30,6 +30,9 @@ bio = "katie is cool. katie is cool. katie is cool. katie is cool. katie is cool
 img = "/uploads/dog.jpeg"
 name = "katie murray"
 [[blocks.partners]]
+bio = "katie is cool. katie is cool. katie is cool. katie is cool. katie is cool. katie is cool. katie is cool. katie is cool. katie is cool. "
+img = "/uploads/dog.jpeg"
+name = "blah blah"
 [[blocks]]
 heading = "Contact Us"
 sendButtonText = "Send Message"
