@@ -10,6 +10,7 @@ link = "#portfolio"
 text = "See more"
 [[blocks]]
 heading = "Mission Statement"
+sectionid = "portfolio"
 subheading = "Here's my mission statement. Here's my mission statement. Here's my mission statement. Here's my mission statement. Here's my mission statement. Here's my mission statement. Here's my mission statement. "
 template = "feature-description"
 [[blocks]]
