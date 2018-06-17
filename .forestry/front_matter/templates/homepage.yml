@@ -1,4 +1,8 @@
 ---
 hide_body: true
 is_partial: false
-fields: []
+fields:
+- type: blocks
+  name: blocks
+  label: blocks
+  description: sections used on page
