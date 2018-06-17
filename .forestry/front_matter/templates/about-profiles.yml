@@ -17,3 +17,6 @@ fields:
   - type: file
     name: img
     label: img
+  - type: textarea
+    name: bio
+    label: bio
