@@ -17,6 +17,8 @@ heading = "EDMR Therapy"
 subheading = "Here is a sentence about edmr therapy. Here is a sentence about edmr therapy. Here is a sentence about edmr therapy. Here is a sentence about edmr therapy. Here is a sentence about edmr therapy. "
 template = "feature-description"
 [[blocks]]
+heading = "Art Therapy"
+subheading = "Here is a sentence about art therapy. Here is a sentence about art therapy. Here is a sentence about art therapy. Here is a sentence about art therapy. "
 template = "feature-description"
 [[blocks]]
 template = "about-profiles"
