@@ -6,3 +6,8 @@ fields:
   name: blocks
   label: blocks
   description: sections used on page
+  template_types:
+  - contact
+  - aboutprofiles
+  - featuredescription
+  - hero-section
