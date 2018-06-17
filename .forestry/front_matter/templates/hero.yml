@@ -13,3 +13,13 @@ fields:
 - type: text
   name: subheading
   label: subheading
+- type: field_group
+  name: button
+  label: button
+  fields:
+  - type: text
+    name: text
+    label: text
+  - type: text
+    label: link
+    name: link
