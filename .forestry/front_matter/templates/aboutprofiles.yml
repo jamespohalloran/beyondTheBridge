@@ -6,3 +6,4 @@ fields:
   name: template
   label: template
   default: about-profiles
+  hidden: true
