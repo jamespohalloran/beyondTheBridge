@@ -15,10 +15,12 @@ subheading = "Here's my mission statement. Here's my mission statement. Here's m
 template = "feature-description"
 [[blocks]]
 heading = "EDMR Therapy"
+sectionid = "skill1"
 subheading = "Here is a sentence about edmr therapy. Here is a sentence about edmr therapy. Here is a sentence about edmr therapy. Here is a sentence about edmr therapy. Here is a sentence about edmr therapy. "
 template = "feature-description"
 [[blocks]]
 heading = "Art Therapy"
+sectionid = "skill2"
 subheading = "Here is a sentence about art therapy. Here is a sentence about art therapy. Here is a sentence about art therapy. Here is a sentence about art therapy. "
 template = "feature-description"
 [[blocks]]
