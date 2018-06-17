@@ -14,5 +14,5 @@ fields:
   name: subheading
   label: subheading
 - type: text
-  name: sendbuttontext
+  name: send-button-text
   label: send button text
