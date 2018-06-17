@@ -13,6 +13,12 @@ heading = "Mission Statement"
 subheading = "Here's my mission statement. Here's my mission statement. Here's my mission statement. Here's my mission statement. Here's my mission statement. Here's my mission statement. Here's my mission statement. "
 template = "feature-description"
 [[blocks]]
+heading = "EDMR Therapy"
+subheading = "Here is a sentence about edmr therapy. Here is a sentence about edmr therapy. Here is a sentence about edmr therapy. Here is a sentence about edmr therapy. Here is a sentence about edmr therapy. "
+template = "feature-description"
+[[blocks]]
+template = "feature-description"
+[[blocks]]
 template = "about-profiles"
 [[blocks]]
 heading = "Contact Us"
