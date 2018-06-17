@@ -12,4 +12,4 @@ fields:
   - feature-description
   - hero-section
 pages:
-- content/index.md
+- content/_index.md
