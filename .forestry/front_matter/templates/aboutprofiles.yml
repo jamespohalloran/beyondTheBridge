@@ -1,9 +1,0 @@
----
-hide_body: false
-is_partial: true
-fields:
-- type: text
-  name: template
-  label: template
-  default: about-profiles
-  hidden: true
