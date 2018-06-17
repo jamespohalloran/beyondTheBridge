@@ -10,3 +10,6 @@ fields:
 - type: text
   name: heading
   label: heading
+- type: text
+  name: subheading
+  label: subheading
