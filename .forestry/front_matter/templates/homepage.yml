@@ -8,8 +8,8 @@ fields:
   description: sections used on page
   template_types:
   - contact
-  - aboutprofiles
-  - featuredescription
+  - about-profiles
+  - feature-description
   - hero-section
 pages:
 - content/index.md

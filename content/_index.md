@@ -4,9 +4,9 @@ type = "page"
 [[blocks]]
 template = "hero-section"
 [[blocks]]
-template = "featuredescription"
+template = "feature-description"
 [[blocks]]
-template = "aboutprofiles"
+template = "about-profiles"
 [[blocks]]
 template = "contact"
 
