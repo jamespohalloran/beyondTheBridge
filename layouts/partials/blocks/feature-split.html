@@ -1,0 +1,14 @@
+<!-- Feature split -->
+<section id="about" class="three">
+    <div class="container">
+      <div class="row">
+        <div>boomie</div>
+        {{ range .Params.skills }} 
+          <div class="6u 12u$(mobile)">
+            <h2 class="author-name">{{ .name }}</h2>
+            <p>{{ .description }}</p>
+          </div>
+        {{ end }}
+      </div>
+    </div>
+  </section>

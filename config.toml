@@ -16,7 +16,7 @@ text = "Mission Statement"
 [[params.sidemenus]]
 icon = "fa-user"
 id = "about-link"
-link = "#skill1"
+link = "#skill2"
 text = "EMDR"
 [[params.sidemenus]]
 icon = "fa-user"

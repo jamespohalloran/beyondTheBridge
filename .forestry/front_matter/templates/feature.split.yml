@@ -1,0 +1,23 @@
+---
+hide_body: false
+is_partial: true
+fields:
+- type: text
+  name: sectionid
+  label: section id
+  description: used for if you want to link to this section.
+- type: text
+  name: template
+  label: template
+  default: feature-split
+  hidden: true
+- type: field_group_list
+  name: partners
+  label: skills
+  fields:
+  - type: text
+    name: name
+    label: name
+  - type: textarea
+    name: description
+    label: description

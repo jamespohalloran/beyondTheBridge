@@ -11,5 +11,6 @@ fields:
   - contact
   - about-profiles
   - feature-description
+  - feature-split
 pages:
 - content/_index.md
