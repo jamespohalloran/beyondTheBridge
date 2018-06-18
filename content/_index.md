@@ -3,6 +3,7 @@ title = ""
 type = "page"
 [[blocks]]
 heading = "Beyond The Bridge Therapy Centre"
+image = "/uploads/dog.jpeg"
 subheading = "here's a bit of extra info"
 template = "hero"
 [blocks.button]
