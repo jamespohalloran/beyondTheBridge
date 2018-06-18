@@ -35,6 +35,7 @@ img = "/uploads/dog.jpeg"
 name = "Katie Murray"
 [[blocks]]
 heading = "Contact Us"
+recipientEmail = "khmurray@upei.ca"
 sendButtonText = "Send Message"
 sendbuttontext = "Send Message"
 subheading = "Any questions? Looking to request a booking? "
