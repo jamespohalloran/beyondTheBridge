@@ -20,6 +20,9 @@ fields:
   - type: text
     name: text
     label: text
+  - type: file
+    name: image
+    label: image  
   - type: text
     label: link
     name: link
