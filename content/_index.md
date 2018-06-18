@@ -2,12 +2,12 @@
 title = ""
 type = "page"
 [[blocks]]
-heading = "My heading"
+heading = "Beyond The Bridge Therapy Centre"
 subheading = "here's a bit of extra info"
 template = "hero"
 [blocks.button]
 link = "#portfolio"
-text = "See more"
+text = "Learn more"
 [[blocks]]
 heading = "Mission Statement"
 sectionid = "portfolio"

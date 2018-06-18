@@ -70,3 +70,7 @@ medium = "twitter"
 icon = "facebook"
 link = "#"
 medium = "facebook"
+[[params.social]]
+icon = "instagram"
+link = "#"
+medium = "instagram"

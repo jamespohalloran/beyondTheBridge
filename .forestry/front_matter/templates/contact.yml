@@ -16,3 +16,6 @@ fields:
 - type: text
   name: sendbuttontext
   label: send button text
+- type: text
+  name: recipientEmail
+  label: Recipient Email
