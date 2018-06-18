@@ -5,7 +5,9 @@
         {{ range .Params.skills }} 
           <div class="6u 12u$(mobile)">
             <div class="skill-square">
-              <h4 class="author-name">{{ .name }}</h2>
+              <header>
+              <h3 class="author-name">{{ .name }}</h3>
+              </header>
               <p>{{ .description }}</p>
               </div>
           </div>
