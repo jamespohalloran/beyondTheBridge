@@ -14,6 +14,8 @@ sectionid = "portfolio"
 subheading = "Here's my mission statement. Here's my mission statement. Here's my mission statement. Here's my mission statement. Here's my mission statement. Here's my mission statement. Here's my mission statement. "
 template = "feature-description"
 [[blocks]]
+template = "feature-split"
+[[blocks]]
 template = "about-profiles"
 [[blocks.partners]]
 bio = "katie is cool. katie is cool. katie is cool. katie is cool. katie is cool. katie is cool. "
