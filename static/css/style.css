@@ -13,3 +13,16 @@
 {
   margin: 0 0 0 0;
 }
+
+@media(max-width: 960px)
+{
+  #logo h1
+  {
+    margin-left: 48px;
+  }
+
+  #logo img{
+    height: 48px;
+    width: auto;
+  }
+}
