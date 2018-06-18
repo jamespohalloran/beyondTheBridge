@@ -19,6 +19,8 @@ template = "feature-split"
 description = "about EMDR Therapy. about EMDR Therapy. about EMDR Therapy. about EMDR Therapy. "
 name = "EMDR Therapy"
 [[blocks.skills]]
+description = "About Art Therapy. Art Therapy. Art Therapy.About Art Therapy. Art Therapy. Art Therapy.About Art Therapy. Art Therapy. Art Therapy."
+name = "Art Therapy"
 [[blocks]]
 template = "about-profiles"
 [[blocks.partners]]
