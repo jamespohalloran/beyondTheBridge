@@ -7,36 +7,6 @@ copyright = "Beyond the Bridge Therapy Centre "
 description = "a cool company"
 logo = "/uploads/Beyond the Bridge Logo.jpg"
 name = "Beyond the Bridge Therapy Centre"
-[[params.portfolio1]]
-alt = ""
-source = "img/pic02.jpg"
-title = "Ipsum Feugiat"
-url = "#"
-[[params.portfolio1]]
-alt = ""
-source = "img/pic03.jpg"
-title = "Rhoncus Semper"
-url = "#"
-[[params.portfolio2]]
-alt = ""
-source = "img/pic04.jpg"
-title = "Magna Nullam"
-url = "#"
-[[params.portfolio2]]
-alt = ""
-source = "img/pic05.jpg"
-title = "Natoque Vitae"
-url = "#"
-[[params.portfolio3]]
-alt = ""
-source = "img/pic06.jpg"
-title = "Dolor Penatibus"
-url = "#"
-[[params.portfolio3]]
-alt = ""
-source = "img/pic07.jpg"
-title = "Orci Convallis"
-url = "#"
 [[params.sidemenus]]
 icon = "fa-th"
 id = "portfolio-link"
