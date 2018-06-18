@@ -22,7 +22,10 @@ fields:
     label: text
   - type: file
     name: image
-    label: image  
+    label: image
   - type: text
     label: link
     name: link
+- type: file
+  name: image
+  label: image
