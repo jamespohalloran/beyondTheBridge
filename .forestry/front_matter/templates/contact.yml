@@ -19,3 +19,4 @@ fields:
 - type: text
   name: recipientEmail
   label: Recipient Email
+  description: When someone fills out the form, the email will get sent here
