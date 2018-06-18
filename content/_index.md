@@ -15,6 +15,10 @@ subheading = "Here's my mission statement. Here's my mission statement. Here's m
 template = "feature-description"
 [[blocks]]
 template = "feature-split"
+[[blocks.skills]]
+description = "about EMDR Therapy. about EMDR Therapy. about EMDR Therapy. about EMDR Therapy. "
+name = "EMDR Therapy"
+[[blocks.skills]]
 [[blocks]]
 template = "about-profiles"
 [[blocks.partners]]
