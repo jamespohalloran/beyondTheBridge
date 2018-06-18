@@ -14,6 +14,7 @@ sectionid = "portfolio"
 subheading = "Here's my mission statement. Here's my mission statement. Here's my mission statement. Here's my mission statement. Here's my mission statement. Here's my mission statement. Here's my mission statement. "
 template = "feature-description"
 [[blocks]]
+sectionid = "skills"
 template = "feature-split"
 [[blocks.skills]]
 description = "about EMDR Therapy. about EMDR Therapy. about EMDR Therapy. about EMDR Therapy. "
