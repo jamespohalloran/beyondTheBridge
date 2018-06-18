@@ -12,15 +12,9 @@ fields:
   default: feature-split
   hidden: true
 - type: field_group_list
-  name: partners
+  name: skills
   label: skills
   fields:
   - type: text
     name: name
     label: name
-    default: EMDR Therapy
-  - type: textarea
-    name: description
-    label: description
-    default: 'about EMDR Therapy. about EMDR Therapy. about EMDR Therapy. about EMDR
-      Therapy. about EMDR Therapy. about EMDR Therapy. about EMDR Therapy. '
