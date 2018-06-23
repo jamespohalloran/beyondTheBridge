@@ -28,7 +28,7 @@ template = "about-profiles"
 [[blocks.partners]]
 bio = "katie is cool. katie is cool. katie is cool. katie is cool. katie is cool. katie is cool. "
 img = "/uploads/dog.jpeg"
-name = "Katie Murray"
+name = "Stephanie Dawson"
 [[blocks.partners]]
 bio = "katie is cool. katie is cool. katie is cool. katie is cool. katie is cool. katie is cool. katie is cool. katie is cool. katie is cool. "
 img = "/uploads/dog.jpeg"
