@@ -35,7 +35,7 @@ link = "#contact"
 text = "Contact"
 [[params.social]]
 icon = "twitter"
-link = "#"
+link = "http://www.twitter.com"
 medium = "twitter"
 [[params.social]]
 icon = "facebook"
