@@ -21,7 +21,7 @@ template = "feature-split"
 description = "about EMDR Therapy. about EMDR Therapy. about EMDR Therapy. about EMDR Therapy. "
 name = "EMDR Therapy"
 [[blocks.skills]]
-description = "About Art Therapy. Art Therapy. Art Therapy.About Art Therapy. Art Therapy. Art Therapy.About Art Therapy. Art Therapy. Art Therapy."
+description = "Art therapy is an expressive and self-reflective process that involves psychodynamic theory and developmental psychology. It uses art and the creative process to therapeutically explore and resolve emotional conflicts, develop self-awareness and social skills, build problem solving skills, reduce anxiety and increase self-esteem. \u2028Art therapy can provide children, adolescents, adults the opportunity for emotional healing and personal growth."
 name = "Art Therapy"
 [[blocks]]
 template = "about-profiles"
