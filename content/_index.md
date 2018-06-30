@@ -21,7 +21,7 @@ template = "feature-split"
 description = "about EMDR Therapy. about EMDR Therapy. about EMDR Therapy. about EMDR Therapy. "
 name = "EMDR Therapy"
 [[blocks.skills]]
-description = "Art therapy is an expressive and self-reflective process that involves psychodynamic theory and developmental psychology. It uses art and the creative process to therapeutically explore and resolve emotional conflicts, develop self-awareness and social skills, build problem solving skills, reduce anxiety and increase self-esteem. Art therapy can provide children, adolescents, adults the opportunity for emotional healing and personal growth."
+description = "Art therapy is an expressive and self-reflective process that involves psychodynamic theory and developmental psychology. It uses art and the creative process to therapeutically explore and resolve emotional conflicts, develop self-awareness and social skills, build problem solving skills, reduce anxiety and increase self-esteem. <br/> Art therapy can provide children, adolescents, adults the opportunity for emotional healing and personal growth."
 name = "Art Therapy"
 [[blocks]]
 template = "about-profiles"
@@ -30,7 +30,7 @@ bio = "katie is cool. katie is cool. katie is cool. katie is cool. katie is cool
 img = "/uploads/dog.jpeg"
 name = "Stephanie Dawson"
 [[blocks.partners]]
-bio = "Education\n - D.K.A.T.I. from the Kutenai Art Therapy Institute (KATI). KATI is an accredited institute in Nelson, British Columbia and is recognized by both the BC Art Therapy Association and the Canadian Art Therapy Association (CATA).\n<br/>\nAs part of the requirements for graduating, I completed 700 hours of clinical work, two years of theoretical course work, and wrote a thesis entitled, \"It Takes a Village: The Value of Co-Creation in School-Based Art Therapy.\"\n<br/>\n - B.A. from the University of Prince Edward Island (UPEI).\n"
+bio = "Education\n - D.K.A.T.I. from the Kutenai Art Therapy Institute (KATI). KATI is an accredited institute in Nelson, British Columbia and is recognized by both the BC Art Therapy Association and the Canadian Art Therapy Association (CATA).\n\nAs part of the requirements for graduating, I completed 700 hours of clinical work, two years of theoretical course work, and wrote a thesis entitled, \"It Takes a Village: The Value of Co-Creation in School-Based Art Therapy.\"\n\n - B.A. from the University of Prince Edward Island (UPEI).\n"
 img = "/uploads/dog.jpeg"
 name = "Katie Murray"
 [[blocks]]
