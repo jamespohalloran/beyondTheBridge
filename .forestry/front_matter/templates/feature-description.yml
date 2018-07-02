@@ -10,9 +10,13 @@ fields:
 - type: text
   name: heading
   label: heading
-- type: text
+- type: textarea
   name: subheading
   label: subheading
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
 - type: text
   name: sectionid
   label: section id
