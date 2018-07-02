@@ -3,7 +3,7 @@ title = ""
 type = "page"
 [[blocks]]
 heading = "Beyond The Bridge Therapy Centre"
-image = "/uploads/functional-aqua-colored-wallpaper-wallpapersafari-with-aquamarine-color.jpg"
+image = "/uploads/215714-cyan.jpg"
 subheading = "here's a bit of extra info"
 template = "hero"
 [blocks.button]
