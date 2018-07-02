@@ -20,3 +20,7 @@ fields:
   - type: textarea
     name: bio
     label: bio
+    config:
+      wysiwyg: true
+      schema:
+        format: markdown
