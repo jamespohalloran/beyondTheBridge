@@ -6,6 +6,6 @@
             <h2>{{ .Params.heading }}</h2>
           </header>
   
-          <p>{{ .Params.subheading }}</p>
+          <p>{{ with .Params.subheading }}{{ . | safeHTML }}{{ end }}</p>
         </div>
       </section>

@@ -12,7 +12,7 @@
             <img src="{{ .img }}" alt="" />
           </a>
   
-        <p>{{ .bio }}</p>
+        <p>{{ with .bio }}{{ . | safeHTML }}{{ end }}</p>
       </div>
       {{ end }}
     </div>

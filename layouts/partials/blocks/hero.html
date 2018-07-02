@@ -4,7 +4,7 @@
 
       <header>
         <h2 class="alt">{{ .Params.heading }}</h2>
-        <p>{{ .Params.subheading }}</p>
+        <p>{{ with .Params.subheading }}{{ . | safeHTML }}{{ end }}</p>
       </header>
 
       <footer>

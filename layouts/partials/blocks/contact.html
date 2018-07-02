@@ -6,7 +6,7 @@
         <h2>{{ .Params.heading }}</h2>
       </header>
 
-      <p>{{ .Params.subheading }}</p>
+      <p>{{ with .Params.subheading }}{{ . | safeHTML }}{{ end }}</p>
 
       <form method="post" action="https://formspree.io/{{ .Params.recipientEmail }}">
         <div class="row">
