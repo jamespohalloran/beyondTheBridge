@@ -13,6 +13,8 @@ fields:
 - type: text
   name: subheading
   label: subheading
+  config:
+    required: true
 - type: text
   name: sendbuttontext
   label: send button text
