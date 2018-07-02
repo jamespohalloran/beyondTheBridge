@@ -12,7 +12,7 @@
             <img src="{{ .img }}" alt="" />
           </a>
   
-        <p>{{ with .bio }}{{ . | safeHTML }}{{ end }}</p>
+        <p>{{ with .bio }}{{ . | markdownify }}{{ end }}</p>
       </div>
       {{ end }}
     </div>
