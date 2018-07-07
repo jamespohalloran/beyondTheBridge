@@ -12,7 +12,7 @@ text = "Learn more"
 [[blocks]]
 heading = "Mission Statement"
 sectionid = "portfolio"
-subheading = "At Beyond the Bridge Therapy Centre, we want clients to know they are resilient in the face of darkness. It is our aim to guide our clients on their therapeutic journey. We want to ensure our clients that this is a safe, inclusive, and confidential place to express themselves."
+subheading = "At Beyond the Bridge Therapy Centre, we want people to know they are resilient in the face of darkness. It is our aim to guide our clients on their therapeutic journey. We want to ensure that this is a safe, inclusive, and confidential place for people to express themselves."
 template = "feature-description"
 [[blocks]]
 sectionid = "skills"
