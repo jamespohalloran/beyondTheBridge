@@ -30,7 +30,7 @@ bio = "katie is cool. katie is cool. katie is cool. katie is cool. katie is cool
 img = "/uploads/dog.jpeg"
 name = "Stephanie Dawson"
 [[blocks.partners]]
-bio = "#### **Education** <br/>\n\n* **D.K.A.T.I.** from the Kutenai Art Therapy Institute (KATI). KATI is an accredited institute in Nelson, British Columbia and is recognized by both the BC Art Therapy Association and the Canadian Art Therapy Association (CATA).<br/> As part of the requirements for graduating, I completed 700 hours of clinical work, two years of theoretical course work, two years of personal therapy, and wrote a thesis entitled, \"It Takes a Village: The Value of Co-Creation in School-Based Art Therapy.\" <br/> \n* **B.A.** from the University of Prince Edward Island (UPEI). I graduated with a Major in English Literature, a Minor in History, and completed the mandatory coursesPsychology 101, 102, and Developmental Psychology"
+bio = "#### **Education** <br/>\n\n* **D.K.A.T.I.** from the Kutenai Art Therapy Institute (KATI). KATI is an accredited institute in Nelson, British Columbia and is recognized by both the BC Art Therapy Association and the Canadian Art Therapy Association (CATA).<br/> As part of the requirements for graduating, I completed 700 hours of clinical work, two years of theoretical course work, two years of personal therapy, and wrote a thesis entitled, \"It Takes a Village: The Value of Co-Creation in School-Based Art Therapy.\" <br/> <br/>\n* **B.A.** from the University of Prince Edward Island (UPEI). I graduated with a Major in English Literature, a Minor in History, and completed the mandatory coursesPsychology 101, 102, and Developmental Psychology"
 img = "/uploads/dog.jpeg"
 name = "Katie Murray"
 [[blocks]]
