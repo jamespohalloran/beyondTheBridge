@@ -18,6 +18,7 @@ template = "feature-description"
 sectionid = "skills"
 template = "feature-split"
 [[blocks.skills]]
+description = "The goals of SFT are to change the way clients view problems and what they can do about these concerns. With the client, Stephanie will collaboratively establish clear, specific, and concrete goals to increase positive changes. SFT therapy focuses on externalizing problems and looking for exceptions to the problem. SFT utilizes treatment interventions that highlight clients’ strengths and improve coping skills."
 name = "Solution Focused Therapy"
 [[blocks.skills]]
 description = "CBT is based on the philosophy that individuals tend to incorporate faulty thinking, which leads to emotional and behavioural disturbances. Therapy focuses on cognitions and behaviour, and stresses the role of thinking, deciding, questioning, doing, and re-deciding. CBT utilizes treatment interventions that are action oriented and utilizes learning processes that include acquiring and practicing new skills, learning new ways of thinking and challenging faulty thinking. "
