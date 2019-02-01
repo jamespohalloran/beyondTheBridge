@@ -21,6 +21,7 @@ template = "feature-split"
 description = "Art therapy is an expressive and self-reflective process that involves psychodynamic theory and developmental psychology. It uses art and the creative process to therapeutically explore and resolve emotional conflicts, develop self-awareness and social skills, build problem solving skills, reduce anxiety and increase self-esteem. <br/><br/> Art therapy can provide children, adolescents, and adults the opportunity for emotional healing and personal growth."
 name = "Art Therapy"
 [[blocks.skills]]
+description = "CBT is based on the philosophy that individuals tend to incorporate faulty thinking, which leads to emotional and behavioural disturbances. Therapy focuses on cognitions and behavior, and stresses the role of thinking, deciding, questioning, doing, and redeciding. CBT utilizes treatment interventions that are action oriented and utilizes learning processes that include acquiring and practicing new skills, learning new ways of thinking and challenging faulty thinking. "
 name = "Cognitive Behavioural Therapy and Solution Focused Therapy"
 [[blocks.skills]]
 description = "about EMDR Therapy. about EMDR Therapy. about EMDR Therapy. about EMDR Therapy. "
