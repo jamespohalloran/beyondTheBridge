@@ -18,6 +18,8 @@ template = "feature-description"
 sectionid = "skills"
 template = "feature-split"
 [[blocks.skills]]
+name = "Cognitive Behavioural Therapy"
+[[blocks.skills]]
 description = "about EMDR Therapy. about EMDR Therapy. about EMDR Therapy. about EMDR Therapy. "
 name = "EMDR Therapy"
 [[blocks.skills]]
