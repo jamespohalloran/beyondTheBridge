@@ -18,13 +18,13 @@ template = "feature-description"
 sectionid = "skills"
 template = "feature-split"
 [[blocks.skills]]
-name = "Cognitive Behavioural Therapy"
+description = "Art therapy is an expressive and self-reflective process that involves psychodynamic theory and developmental psychology. It uses art and the creative process to therapeutically explore and resolve emotional conflicts, develop self-awareness and social skills, build problem solving skills, reduce anxiety and increase self-esteem. <br/><br/> Art therapy can provide children, adolescents, and adults the opportunity for emotional healing and personal growth."
+name = "Art Therapy"
+[[blocks.skills]]
+name = "Cognitive Behavioural Therapy and Solution Focused Therapy"
 [[blocks.skills]]
 description = "about EMDR Therapy. about EMDR Therapy. about EMDR Therapy. about EMDR Therapy. "
 name = "EMDR Therapy"
-[[blocks.skills]]
-description = "Art therapy is an expressive and self-reflective process that involves psychodynamic theory and developmental psychology. It uses art and the creative process to therapeutically explore and resolve emotional conflicts, develop self-awareness and social skills, build problem solving skills, reduce anxiety and increase self-esteem. <br/><br/> Art therapy can provide children, adolescents, and adults the opportunity for emotional healing and personal growth."
-name = "Art Therapy"
 [[blocks]]
 template = "about-profiles"
 [[blocks.partners]]
