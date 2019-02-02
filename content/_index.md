@@ -7,6 +7,7 @@ image = "/uploads/2880x1800-cerulean-frost-solid-color-background.jpg"
 subheading = ""
 template = "hero"
 [blocks.button]
+image = "/uploads/light blue.jpg"
 link = "#portfolio"
 text = "Learn more"
 [[blocks]]
