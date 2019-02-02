@@ -4,7 +4,7 @@ type = "page"
 [[blocks]]
 heading = "Beyond The Bridge Therapy Centre"
 image = "/uploads/2880x1800-cerulean-frost-solid-color-background.jpg"
-subheading = "here's a bit of extra info."
+subheading = ""
 template = "hero"
 [blocks.button]
 link = "#portfolio"
