@@ -3,7 +3,7 @@ title = ""
 type = "page"
 [[blocks]]
 heading = "Beyond The Bridge Therapy Centre"
-image = "/uploads/2880x1800-cerulean-frost-solid-color-background.jpg"
+image = "/uploads/Screen Shot 2019-02-02 at 1.02.31 AM.png"
 subheading = ""
 template = "hero"
 [blocks.button]
