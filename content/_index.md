@@ -18,14 +18,14 @@ template = "feature-description"
 sectionid = "skills"
 template = "feature-split"
 [[blocks.skills]]
-description = "The goals of SFT are to change the way clients view problems and what they can do about these concerns. With the client, Stephanie will collaboratively establish clear, specific, and concrete goals to increase positive changes. SFT therapy focuses on externalizing problems and looking for exceptions to the problem. SFT utilizes treatment interventions that highlight clients’ strengths and improve coping skills."
-name = "Solution Focused Therapy"
+description = "Art therapy is an expressive and self-reflective process that involves psychodynamic theory and developmental psychology. It uses art and the creative process to therapeutically explore and resolve emotional conflicts, develop self-awareness and social skills, build problem solving skills, reduce anxiety and increase self-esteem. <br/><br/> Art therapy can provide children, adolescents, and adults the opportunity for emotional healing and personal growth."
+name = "Art Therapy"
 [[blocks.skills]]
 description = "CBT is based on the philosophy that individuals tend to incorporate faulty thinking, which leads to emotional and behavioural disturbances. Therapy focuses on cognitions and behaviour, and stresses the role of thinking, deciding, questioning, doing, and re-deciding. CBT utilizes treatment interventions that are action oriented and utilizes learning processes that include acquiring and practicing new skills, learning new ways of thinking and challenging faulty thinking. "
 name = "Cognitive Behavioural Therapy"
 [[blocks.skills]]
-description = "Art therapy is an expressive and self-reflective process that involves psychodynamic theory and developmental psychology. It uses art and the creative process to therapeutically explore and resolve emotional conflicts, develop self-awareness and social skills, build problem solving skills, reduce anxiety and increase self-esteem. <br/><br/> Art therapy can provide children, adolescents, and adults the opportunity for emotional healing and personal growth."
-name = "Art Therapy"
+description = "The goals of SFT are to change the way clients view problems and what they can do about these concerns. With the client, Stephanie will collaboratively establish clear, specific, and concrete goals to increase positive changes. SFT therapy focuses on externalizing problems and looking for exceptions to the problem. SFT utilizes treatment interventions that highlight clients’ strengths and improve coping skills."
+name = "Solution Focused Therapy"
 [[blocks.skills]]
 description = "EMDR is a scientifically proven effective treatment for clients who experience trauma in their lifetime (past/present). It is a very structured form of therapy, with proven success in as little as 3 sessions. This form of therapy ties in well with her learnings from her Bachelor of Science. "
 name = "EMDR Therapy"
