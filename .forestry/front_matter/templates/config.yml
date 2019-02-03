@@ -99,6 +99,24 @@ fields:
       default: ''
     hidden: false
     default: ''
+  - type: field_group
+    name: seo
+    label: seo
+    description: How googlers find your site
+    fields:
+    - type: text
+      name: title
+      label: title
+      description: Main google title
+    - type: textarea
+      name: description
+      label: description
+      description: Should be max 300 characters
+    - type: file
+      name: image
+      label: image
+      description: This is the default image that will be shown when someone shares
+        your site on social
   hidden: false
   default: ''
 pages:
