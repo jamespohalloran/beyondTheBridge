@@ -3,7 +3,7 @@ title = ""
 type = "page"
 [[blocks]]
 heading = "Beyond The Bridge Therapy Centre"
-image = "/uploads/34089939_387029291796101_6478693200893575168_o.png"
+image = ""
 subheading = ""
 template = "hero"
 [blocks.button]
