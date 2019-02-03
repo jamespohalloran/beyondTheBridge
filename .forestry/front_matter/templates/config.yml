@@ -33,15 +33,17 @@ fields:
     hidden: false
     default: ''
   - name: description
-    label: Description
+    label: Contact 1
     type: text
     hidden: false
     default: ''
+    description: Probably phone number
   - name: description2
     label: Description2
     type: text
     hidden: false
     default: ''
+    description: Probably address
   - name: logo
     label: Logo
     type: file
