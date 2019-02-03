@@ -21,7 +21,7 @@ fields:
 - name: title
   label: Title
   type: text
-  hidden: false
+  hidden: true
   default: ''
 - name: params
   label: Site Options
