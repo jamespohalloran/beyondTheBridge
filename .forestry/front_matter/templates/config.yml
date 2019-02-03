@@ -1,0 +1,103 @@
+---
+label: config
+hide_body: 
+is_partial: 
+fields:
+- name: baseurl
+  label: Baseurl
+  type: text
+  hidden: false
+  default: ''
+- name: languageCode
+  label: Languagecode
+  type: text
+  hidden: false
+  default: ''
+- name: theme
+  label: Theme
+  type: text
+  hidden: false
+  default: ''
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: params
+  label: Params
+  type: field_group
+  fields:
+  - name: copyright
+    label: Copyright
+    type: text
+    hidden: false
+    default: ''
+  - name: description
+    label: Description
+    type: text
+    hidden: false
+    default: ''
+  - name: description2
+    label: Description2
+    type: text
+    hidden: false
+    default: ''
+  - name: logo
+    label: Logo
+    type: file
+    hidden: false
+    default: ''
+  - name: name
+    label: Name
+    type: text
+    hidden: false
+    default: ''
+  - name: sidemenus
+    label: Sidemenus
+    type: field_group_list
+    fields:
+    - name: icon
+      label: Icon
+      type: text
+      hidden: false
+      default: ''
+    - name: id
+      label: Id
+      type: text
+      hidden: false
+      default: ''
+    - name: link
+      label: Link
+      type: text
+      hidden: false
+      default: ''
+    - name: text
+      label: Text
+      type: text
+      hidden: false
+      default: ''
+    hidden: false
+    default: ''
+  - name: social
+    label: Social
+    type: field_group_list
+    fields:
+    - name: icon
+      label: Icon
+      type: text
+      hidden: false
+      default: ''
+    - name: link
+      label: Link
+      type: text
+      hidden: false
+      default: ''
+    - name: medium
+      label: Medium
+      type: text
+      hidden: false
+      default: ''
+    hidden: false
+    default: ''
+  hidden: false
+  default: ''
