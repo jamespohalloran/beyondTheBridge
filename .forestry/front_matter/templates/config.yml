@@ -24,7 +24,7 @@ fields:
   hidden: false
   default: ''
 - name: params
-  label: Params
+  label: Site Options
   type: field_group
   fields:
   - name: copyright
