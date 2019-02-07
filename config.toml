@@ -38,14 +38,14 @@ id = "contact-link"
 link = "#contact"
 text = "Contact"
 [[params.social]]
-icon = "twitter"
-link = "https://twitter.com/btbtherapy"
-medium = "twitter"
-[[params.social]]
 icon = "facebook"
-link = "#"
+link = "https://www.facebook.com/BeyondtheBridgeTherapy/"
 medium = "facebook"
 [[params.social]]
 icon = "instagram"
 link = "https://www.instagram.com/beyondthebridgetherapy/"
 medium = "instagram"
+[[params.social]]
+icon = "twitter"
+link = "https://twitter.com/btbtherapy"
+medium = "twitter"
