@@ -4,8 +4,8 @@ theme = "prologue"
 title = "Prologue"
 [params]
 copyright = "Beyond the Bridge Therapy Centre "
-description = "1 (902) 123-1234"
-description2 = "1 Cool St, Cooltown, PE, Canada, C1C1C1C"
+description = "1 (902) 629-5097"
+description2 = ""
 logo = "/uploads/beyond_the_bridge_2.svg"
 name = "Beyond the Bridge Therapy Centre"
 [params.seo]
@@ -39,7 +39,7 @@ link = "#contact"
 text = "Contact"
 [[params.social]]
 icon = "twitter"
-link = "http://www.twitter.com"
+link = "https://twitter.com/btbtherapy"
 medium = "twitter"
 [[params.social]]
 icon = "facebook"
