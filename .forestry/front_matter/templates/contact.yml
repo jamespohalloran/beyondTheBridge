@@ -20,6 +20,6 @@ fields:
   name: sendbuttontext
   label: send button text
 - type: text
-  name: recipientEmail
+  name: recipient_email
   label: Recipient Email
   description: When someone fills out the form, the email will get sent here
