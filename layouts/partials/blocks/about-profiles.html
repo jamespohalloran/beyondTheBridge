@@ -12,7 +12,7 @@
             <img src="{{ .img }}" alt="" />
           </a>
   
-        <p>{{ with .bio }}{{ . | markdownify }}{{ end }}</p>
+        <p class="bio">{{ with .bio }}{{ . | markdownify }}{{ end }}</p>
       </div>
       {{ end }}
     </div>
