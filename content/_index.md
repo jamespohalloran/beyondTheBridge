@@ -43,6 +43,7 @@ name = "Katie Murray"
 [[blocks]]
 heading = "Contact Us"
 recipientEmail = "kmurrayarttherapy@gmail.com"
+recipient_email = "kmurrayarttherapy@gmail.com"
 sendButtonText = "Send Message"
 sendbuttontext = "Send Message"
 subheading = "Any questions? Looking to request a booking? "
