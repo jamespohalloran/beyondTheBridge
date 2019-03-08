@@ -21,7 +21,7 @@ text = "Mission Statement"
 icon = "fa-eye"
 id = "about-link"
 link = "#skills"
-text = "EMDR"
+text = "Individual Therapy"
 [[params.sidemenus]]
 icon = "fa-paint-brush"
 id = "about-link"
