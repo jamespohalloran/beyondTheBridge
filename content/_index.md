@@ -19,9 +19,6 @@ template = "feature-description"
 sectionid = "skills"
 template = "feature-split"
 [[blocks.skills]]
-description = "EMDR is a scientifically proven effective treatment for clients who experience trauma in their lifetime (past/present). It is a very structured form of therapy, with proven success in as little as 3 sessions."
-name = "EMDR Therapy"
-[[blocks.skills]]
 description = "Art therapy is an expressive and self-reflective process that involves psychodynamic theory and developmental psychology. It uses art and the creative process to therapeutically explore and resolve emotional conflicts, develop self-awareness and social skills, build problem solving skills, reduce anxiety and increase self-esteem. <br/><br/> Art therapy can provide children, adolescents, and adults the opportunity for emotional healing and personal growth. <br/> <br/> Drawing, painting, sculpting, clay work, crafting, sewing, collage, embroidery, and construction are just some of the many creative paths a person can use during art therapy."
 name = "Art Therapy"
 [[blocks.skills]]
