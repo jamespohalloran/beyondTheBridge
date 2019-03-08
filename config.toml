@@ -33,7 +33,7 @@ id = "about-link"
 link = "#about"
 text = "About Us"
 [[params.sidemenus]]
-icon = ""
+icon = "fa-tool"
 id = ""
 link = ""
 text = "Services"
