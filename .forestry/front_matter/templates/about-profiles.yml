@@ -1,6 +1,7 @@
 ---
 label: about-profiles
 hide_body: false
+display_field: template
 fields:
 - type: text
   name: template
