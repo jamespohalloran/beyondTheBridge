@@ -33,9 +33,9 @@ id = "about-link"
 link = "#about"
 text = "About Us"
 [[params.sidemenus]]
-icon = ""
-id = ""
-link = ""
+icon = "fa-briefcase"
+id = "service-link"
+link = "#services"
 text = "Services"
 [[params.sidemenus]]
 icon = "fa-envelope"
