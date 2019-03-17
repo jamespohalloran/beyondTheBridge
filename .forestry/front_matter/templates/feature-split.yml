@@ -1,6 +1,7 @@
 ---
 label: feature-split
 hide_body: false
+display_field: sectionid
 fields:
 - type: text
   name: sectionid
