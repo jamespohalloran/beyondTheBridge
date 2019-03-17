@@ -101,6 +101,8 @@ fields:
       default: ''
     hidden: false
     default: ''
+    config:
+      labelField: link
   - type: field_group
     name: seo
     label: seo
