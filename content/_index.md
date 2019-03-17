@@ -39,6 +39,7 @@ img = "/uploads/Screen Shot 2019-02-17 at 10.28.40 PM.png"
 name = "Katie Murray"
 [[blocks]]
 heading = "Services"
+sectionid = "services"
 template = "feature-description"
 [[blocks]]
 heading = "Contact Us"
