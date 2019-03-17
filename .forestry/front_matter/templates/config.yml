@@ -62,6 +62,7 @@ fields:
       type: text
       hidden: false
       default: ''
+      description: 'Use any icon here (e.g fa-compass): https://www.w3schools.com/icons/fontawesome_icons_webapp.asp'
     - name: id
       label: Id
       type: text
