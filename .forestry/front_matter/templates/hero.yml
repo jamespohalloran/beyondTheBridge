@@ -1,6 +1,7 @@
 ---
 label: hero
 hide_body: false
+display_field: heading
 fields:
 - type: text
   name: template
