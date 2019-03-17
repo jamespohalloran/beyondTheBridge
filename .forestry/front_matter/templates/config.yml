@@ -73,11 +73,14 @@ fields:
       type: text
       hidden: false
       default: ''
+      description: 'This should ink to a section id defined in the Main Page sections
+        (e.g #about)'
     - name: text
       label: Text
       type: text
       hidden: false
       default: ''
+      description: The text that displays in the sidebar
     hidden: false
     default: ''
     config:
