@@ -19,7 +19,7 @@ template = "feature-description"
 sectionid = "skills"
 template = "feature-split"
 [[blocks.skills]]
-description = "CBT is based on the philosophy that individuals tend to incorporate faulty thinking, which leads to emotional and behavioural disturbances. Therapy focuses on cognitions and behaviour, and stresses the role of thinking, deciding, questioning, doing, and re-deciding. CBT utilizes treatment interventions that are action oriented and utilizes learning processes that include acquiring and practicing new skills, learning new ways of thinking and challenging faulty thinking. "
+description = "CBT is based on the philosophy that individuals tend to incorporate faulty thinking, which leads to emotional and behavioural disturbances. Therapy primarily focuses on cognitive and behavioural distortions, and stresses the role of thinking, deciding, questioning, doing, and re-deciding. CBT utilizes treatment interventions that are action oriented and incorporates learning processes which include acquiring and practicing new skills and challenging faulty thinking patterns."
 name = "Cognitive Behavioural Therapy"
 [[blocks.skills]]
 description = "The goals of SFT are to change the way clients view their current problems, while learning strategies to cope with their present and future circumstances. The therapist and client collaboratively establish clear, specific, concrete goals to promote/increase positive changes. SFT therapy focuses on externalizing problems and looking for exceptions to the problem. SFT utilizes treatment interventions that highlight clients’ strengths and improve coping skills."
