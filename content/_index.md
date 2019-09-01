@@ -38,6 +38,11 @@ bio = "Katie graduated in 2017 from the Kutenai Art Therapy Institute (KATI) whi
 img = "/uploads/IMG_6430.jpeg"
 name = "Katie Murray"
 [[blocks]]
+heading = "Hours"
+sectionid = ""
+subheading = "Monday              9:00 am to 5:00 pm  \nTuesday              9:00 am to 5:00 pm  \nWednesday        9:00 am to 5:00 pm  \nThursday            9:00 am to 5:00 pm  \nFriday                 9:00 am to 5:00 pm  \nSaturday                     CLOSED  \nSunday                       CLOSED"
+template = "feature-description"
+[[blocks]]
 heading = "Contact Us"
 recipientEmail = "kmurrayarttherapy@gmail.com"
 recipient_email = "beyondthebridgetherapy@gmail.com"
