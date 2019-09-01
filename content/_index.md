@@ -38,11 +38,6 @@ bio = "Katie graduated in 2017 from the Kutenai Art Therapy Institute (KATI) whi
 img = "/uploads/IMG_6430.jpeg"
 name = "Katie Murray"
 [[blocks]]
-heading = "Services"
-sectionid = "services"
-subheading = ""
-template = "feature-description"
-[[blocks]]
 heading = "Contact Us"
 recipientEmail = "kmurrayarttherapy@gmail.com"
 recipient_email = "beyondthebridgetherapy@gmail.com"
