@@ -43,6 +43,11 @@ sectionid = ""
 subheading = "Monday              9:00 am to 5:00 pm  \nTuesday              9:00 am to 5:00 pm  \nWednesday        9:00 am to 5:00 pm  \nThursday            9:00 am to 5:00 pm  \nFriday                 9:00 am to 5:00 pm  \nSaturday                     CLOSED  \nSunday                       CLOSED"
 template = "feature-description"
 [[blocks]]
+heading = "Cost of Services"
+sectionid = ""
+subheading = "Our services are $115 (tax included) per hour long sessions.   \n  \nSome health insurance companies may cover our therapy sessions, depending on the insurance plan, but we do not do direct billing. It is up to our clients to submit their receipts to be reimbursed, if covered under their personal health insurance."
+template = "feature-description"
+[[blocks]]
 heading = "Contact Us"
 recipientEmail = "kmurrayarttherapy@gmail.com"
 recipient_email = "beyondthebridgetherapy@gmail.com"
@@ -50,10 +55,5 @@ sendButtonText = "Send Message"
 sendbuttontext = "Send Message"
 subheading = "Any questions? Looking to request a booking? "
 template = "contact"
-[[blocks]]
-heading = "Cost of Services"
-sectionid = ""
-subheading = "Our services are $115 (tax included) per hour long sessions.   \n  \nSome health insurance companies may cover our therapy sessions, depending on the insurance plan, but we do not do direct billing. It is up to our clients to submit their receipts to be reimbursed, if covered under their personal health insurance."
-template = "feature-description"
 
 +++
