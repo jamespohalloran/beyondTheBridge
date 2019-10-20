@@ -50,5 +50,10 @@ sendButtonText = "Send Message"
 sendbuttontext = "Send Message"
 subheading = "Any questions? Looking to request a booking? "
 template = "contact"
+[[blocks]]
+heading = "Cost of Services"
+sectionid = ""
+subheading = "Our services are $115 (tax included) per hour long sessions.   \n  \nSome health insurance companies may cover our therapy sessions, depending on the insurance plan, but we do not do direct billing. It is up to our clients to submit their receipts to be reimbursed, if covered under their personal health insurance."
+template = "feature-description"
 
 +++
