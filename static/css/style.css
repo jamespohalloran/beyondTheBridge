@@ -38,6 +38,14 @@ p {
   position: relative;
 }
 
+#about .image img {
+   display: block;
+   width: auto;
+   max-height: 604px;
+   text-align: center;
+   margin: auto; 
+}
+
 @media(max-width: 960px)
 {
   #logo h1
