@@ -3,7 +3,7 @@ title = ""
 type = "page"
 [[blocks]]
 heading = ""
-image = "/uploads/IMG_5379-1.jpeg"
+image = "/uploads/IMG_5379-1-1.jpeg"
 subheading = ""
 template = "hero"
 [blocks.button]
