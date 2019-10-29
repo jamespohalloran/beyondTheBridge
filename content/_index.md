@@ -45,7 +45,7 @@ template = "feature-description"
 [[blocks]]
 heading = "Cost of Services"
 sectionid = "services"
-subheading = "Our services are $115 (tax included) per hour long sessions.   \n  \nSome health insurance companies may cover our therapy sessions, depending on the insurance plan, but we do not do direct billing. It is up to our clients to submit their receipts to be reimbursed, if covered under their personal health insurance."
+subheading = "Our services are $115 (tax included) for an hour long session.  \nThis includes the initial Intake Session.\n\nEvery insurance company is different and each insurance plan is unique. Some health insurance companies may cover our therapy services, depending on the individual's insurance plan, but we do not do direct billing.\n\nIt is up to our clients to submit their receipts to be reimbursed, if covered under their personal health insurance."
 template = "feature-description"
 [[blocks]]
 heading = "Contact Us"
