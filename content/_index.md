@@ -38,26 +38,46 @@ bio = "Katie graduated in 2017 from the Kutenai Art Therapy Institute (KATI) whi
 img = "/uploads/IMG_6430-1.jpeg"
 name = "Katie Murray"
 [[blocks]]
-heading = "Our Space"
+heading = "The Space"
 sectionid = "gallerry"
 subheading = ""
 template = "gallery"
 [[blocks.images]]
-img = "/uploads/IMG_5379-1.jpeg"
+img = "1.jpeg"
 [[blocks.images]]
-img = "/uploads/IMG_5379-1.jpeg"
+img = "2.jpeg"
 [[blocks.images]]
-img = "/uploads/IMG_5379-1.jpeg"
+img = "3.jpeg"
 [[blocks.images]]
-img = "/uploads/IMG_5379-1.jpeg"
+img = "4.jpeg"
 [[blocks.images]]
-img = "/uploads/IMG_5379-1.jpeg"
+img = "5.jpeg"
 [[blocks.images]]
-img = "/uploads/IMG_5379-1.jpeg"
+img = "6.jpeg"
 [[blocks.images]]
-img = "/uploads/IMG_5379-1.jpeg"
+img = "7.jpeg"
 [[blocks.images]]
-img = "/uploads/IMG_5379-1.jpeg"
+img = "8.jpeg"
+[[blocks.images]]
+img = "9.jpeg"
+[[blocks.images]]
+img = "10.jpeg"
+[[blocks.images]]
+img = "11.jpeg"
+[[blocks.images]]
+img = "12.jpeg"
+[[blocks.images]]
+img = "13.jpeg"
+[[blocks.images]]
+img = "14.jpeg"
+[[blocks.images]]
+img = "15.jpeg"
+[[blocks.images]]
+img = "16.jpeg"
+[[blocks.images]]
+img = "17.jpeg"
+[[blocks.images]]
+img = "18.jpeg"
 [[blocks]]
 heading = "Hours"
 sectionid = ""

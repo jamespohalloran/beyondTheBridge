@@ -4,6 +4,7 @@ $(document).ready(function(){
     infinite: true,
     centerMode: true,
     slidesToShow: 5,
+    lazyLoad: 'ondemand',
     slidesToScroll: 1,
     autoplay: true,
     speed: 300,
