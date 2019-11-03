@@ -1,4 +1,23 @@
 ---
 label: gallery
 hide_body: true
-fields: []
+fields:
+- name: images
+  type: field_group_list
+  fields:
+  - name: alt_text
+    type: text
+    config:
+      required: true
+    label: alt text
+    default: art therapy pei
+  - name: img
+    type: file
+    config:
+      maxSize: '5'
+    label: img
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: images
