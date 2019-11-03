@@ -11,6 +11,8 @@ fields:
       required: true
     label: alt text
     default: art therapy pei
+    description: "(This is used for SEO) - use it to create tags that might show up
+      in google"
   - name: img
     type: file
     config:
