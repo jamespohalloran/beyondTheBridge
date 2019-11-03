@@ -1,4 +1,4 @@
-baseurl = "http://example.org/"
+baseurl = "https://beyondthebridge.ca/"
 languageCode = "en-us"
 theme = "prologue"
 title = "Prologue"
