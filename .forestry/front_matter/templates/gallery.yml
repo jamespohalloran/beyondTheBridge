@@ -23,3 +23,8 @@ fields:
     max: 
     labelField: 
   label: images
+- name: title
+  type: text
+  config:
+    required: false
+  label: title
