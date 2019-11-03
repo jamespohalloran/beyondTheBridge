@@ -19,7 +19,8 @@ fields:
   - name: img
     type: text
     label: img
-    description: James will need to upload these (they are stored on an image server to keep filesizes small for thumbails)
+    description: James will need to upload these (they are stored on an image server
+      to keep filesizes small for thumbails)
   config:
     min: 
     max: 

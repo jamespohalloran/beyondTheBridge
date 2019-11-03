@@ -13,10 +13,15 @@ description = "At Beyond the Bridge Therapy Centre, it is our aim to work collab
 image = "/uploads/Beyond the Bridge Logo.jpg"
 title = "Beyond The Bridge Therapy Centre"
 [[params.sidemenus]]
-icon = "fa-rocket"
+icon = ""
+id = ""
+link = ""
+text = ""
+[[params.sidemenus]]
+icon = "fa-home"
 id = "portfolio-link"
-link = "#portfolio"
-text = "Mission Statement"
+link = "#gallery"
+text = "The Space"
 [[params.sidemenus]]
 icon = "fa-eye"
 id = "about-link"
