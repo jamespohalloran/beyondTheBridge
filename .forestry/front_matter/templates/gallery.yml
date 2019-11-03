@@ -2,17 +2,20 @@
 label: gallery
 hide_body: true
 fields:
+- type: text
+  name: template
+  label: template
+  default: gallery
+  hidden: true
+- type: text
+  name: heading
+  label: heading
+- type: text
+  name: subheading
+  label: subheading
 - name: images
   type: field_group_list
   fields:
-  - name: alt_text
-    type: text
-    config:
-      required: true
-    label: alt text
-    default: art therapy pei
-    description: "(This is used for SEO) - use it to create tags that might show up
-      in google"
   - name: img
     type: file
     config:

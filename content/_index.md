@@ -38,6 +38,27 @@ bio = "Katie graduated in 2017 from the Kutenai Art Therapy Institute (KATI) whi
 img = "/uploads/IMG_6430-1.jpeg"
 name = "Katie Murray"
 [[blocks]]
+heading = "Our Space"
+sectionid = "gallerry"
+subheading = ""
+template = "gallery"
+[[blocks.images]]
+img = "/uploads/IMG_5379-1.jpeg"
+[[blocks.images]]
+img = "/uploads/IMG_5379-1.jpeg"
+[[blocks.images]]
+img = "/uploads/IMG_5379-1.jpeg"
+[[blocks.images]]
+img = "/uploads/IMG_5379-1.jpeg"
+[[blocks.images]]
+img = "/uploads/IMG_5379-1.jpeg"
+[[blocks.images]]
+img = "/uploads/IMG_5379-1.jpeg"
+[[blocks.images]]
+img = "/uploads/IMG_5379-1.jpeg"
+[[blocks.images]]
+img = "/uploads/IMG_5379-1.jpeg"
+[[blocks]]
 heading = "Hours"
 sectionid = ""
 subheading = "Monday              9:00 am to 5:00 pm  \nTuesday              9:00 am to 5:00 pm  \nWednesday        9:00 am to 5:00 pm  \nThursday            9:00 am to 5:00 pm  \nFriday                 9:00 am to 5:00 pm  \nSaturday                     CLOSED  \nSunday                       CLOSED"

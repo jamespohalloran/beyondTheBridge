@@ -1,0 +1,15 @@
+<!-- Image Gallery -->
+<section id="gallery" class="two">
+  <div class="container">
+    <header>
+      <h2>{{ .Params.heading }}</h2>
+    </header>
+    <div class="row">
+      <div class="img-gallery">
+          {{ range .Params.images }}
+            <a data-featherlight="{{$.Site.BaseURL}}{{ .img }}"><div class="gallery-img-container"><div class="img" style="background-image:url('{{$.Site.BaseURL}}{{ .img }}')"></div></div></a>
+          {{end}}
+      </div>
+    </div>
+  </div>
+</section>
