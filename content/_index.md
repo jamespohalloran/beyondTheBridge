@@ -86,7 +86,7 @@ template = "feature-description"
 [[blocks]]
 heading = "Cost of Services"
 sectionid = "services"
-subheading = "Our services are $120 ($138 HST Included) for an hour long session.  \nThis includes the initial Intake Session.\n\nGroup art therapy sessions **up to 5 members** cost $150. With taxes it comes to $172.50.  \nGroup art therapy sessions **above 5 members** cost $200 (plus taxes) **_AND_ an additional charge per person.**\n\nEvery insurance company is different and each insurance plan is unique. Some health insurance companies may cover our therapy services, depending on the individual's insurance plan, but we do not do direct billing.\n\nIt is up to our clients to submit their receipts to be reimbursed, if covered under their personal health insurance."
+subheading = "Our services are $120 ($138 with HST) for an hour long session.  \nThis includes the initial Intake Session.\n\nGroup art therapy sessions **up to 5 members** cost $150. With taxes it comes to $172.50.  \nGroup art therapy sessions **above 5 members** cost $200 (plus taxes) **_AND_ an additional charge per person.**\n\nEvery insurance company is different and each insurance plan is unique. Some health insurance companies may cover our therapy services, depending on the individual's insurance plan, but we do not do direct billing.\n\nIt is up to our clients to submit their receipts to be reimbursed, if covered under their personal health insurance."
 template = "feature-description"
 [[blocks]]
 heading = "Contact Us"
