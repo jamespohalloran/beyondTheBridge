@@ -65,10 +65,14 @@ blocks:
     name: Stephanie Dawson
 - template: feature-description
   heading: Beyond the Bridge Books
-  subheading: |-
-    Dinos Have Emotions is a therapeutic children’s book that focuses on helping children and their grown-ups tackle every-day struggles with emotional regulation. After exploring 10 Dinos and their emotions, the second half of the book contains a variety of coping skills that promote self-regulation.
-
-    ![](/uploads/screenshot-2022-12-12-at-12-14-09-pm.png)
+  subheading: "Dinos Have Emotions is a therapeutic children’s book that focuses on
+    helping children and their grown-ups tackle every-day struggles with emotional
+    regulation by exploring ten unique Dinos and their emotions: Sadness, Happiness,
+    Anger, Love, Disgust, Gratitude, Fear, Hope, Shame, and Pride. The second half
+    of the book contains 19 different coping skills that promote self-regulation.
+    \ \n  \nThe cost is $22 (tax included) per book.\n\nYou can find copies available
+    at our centre.   \n  \nIf you are not local to Summerside, reach out to us via
+    email and we will make shipping or drop off arrangements.\n\n![](/uploads/screenshot-2022-12-12-at-12-14-09-pm.png)"
   sectionid: ''
 - heading: The Space
   sectionid: gallerry
