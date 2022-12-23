@@ -65,8 +65,8 @@ blocks:
     name: Stephanie Dawson
 - template: feature-description
   heading: Beyond the Bridge Books
-  subheading: "Dinos Have Emotions is a therapeutic children’s book that focuses on
-    helping children and their grown-ups tackle every-day struggles with emotional
+  subheading: "_Dinos Have Emotions_ is a therapeutic children’s book that focuses
+    on helping children and their grown-ups tackle every-day struggles with emotional
     regulation by exploring ten unique Dinos and their emotions: Sadness, Happiness,
     Anger, Love, Disgust, Gratitude, Fear, Hope, Shame, and Pride. The second half
     of the book contains 19 different coping skills that promote self-regulation.
