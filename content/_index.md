@@ -66,13 +66,13 @@ blocks:
 - template: feature-description
   heading: Beyond the Bridge Books
   subheading: |-
-    ![](/uploads/screenshot-2022-12-12-at-12-14-09-pm.png)
-
     _Dinos Have Emotions_ is a therapeutic children’s book that explores ten unique Dinos and their emotions: Sadness, Happiness, Anger, Love, Disgust, Gratitude, Fear, Hope, Shame, and Pride. The focus of this book is to help children and their grown-ups tackle every-day struggles with emotional regulation. The second half of the book contains 19 different coping skills that promote self-regulation.
 
     The cost is $22 (tax included) per book.
 
     You can find copies available at our centre. If you are not local to Summerside, reach out to us via email and we will make shipping or drop off arrangements.
+
+    ![](/uploads/screenshot-2022-12-12-at-12-14-09-pm.png)
   sectionid: ''
 - heading: The Space
   sectionid: gallerry
