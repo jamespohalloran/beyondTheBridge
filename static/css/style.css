@@ -106,3 +106,7 @@ p {
   padding: 10px;
   cursor: pointer;
 }
+
+#main img {
+  max-width: 100%;
+}
