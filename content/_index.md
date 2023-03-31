@@ -106,8 +106,8 @@ blocks:
   template: feature-description
 - heading: Cost of Services
   sectionid: services
-  subheading: "Our services are $120 ($138 with HST) for an hour long session.  \nThis
-    includes the initial Intake Session.\n\nGroup art therapy sessions **up to 5 members**
+  subheading: "Our services are $120 ($138 with HST) per session.  \nThis includes
+    the initial Intake Session.\n\nGroup art therapy sessions **up to 5 members**
     cost $150. With taxes it comes to $172.50.  \nGroup art therapy sessions **above
     5 members** cost $200 (plus taxes) **_AND_ an additional charge per person.**\n\nEvery
     insurance company is different and each insurance plan is unique. Some health
