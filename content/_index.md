@@ -3,26 +3,26 @@ title: ''
 type: page
 blocks:
   - heading: ''
-    image: /uploads/IMG_5379-1-1.jpeg
     subheading: ''
-    _template: hero
     button:
+      text: Learn more
       image: /uploads/light blue.jpg
       link: '#portfolio'
-      text: Learn more
+    image: /uploads/IMG_5379-1-1.jpeg
+    _template: hero
   - heading: Mission Statement
-    sectionid: portfolio
     subheading: >-
       At Beyond the Bridge Therapy Centre, it is our aim to work collaboratively
       with our clients on their self-directed therapeutic journey. We want
       people to know they can be resilient in the face of darkness and we ensure
       that this is a safe, inclusive, and confidential place for people to
       express themselves.
+    sectionid: portfolio
     _template: feature-description
   - sectionid: skills
-    _template: feature-split
     skills:
-      - description: >-
+      - name: Art Therapy
+        description: >-
           Art therapy is an expressive and self-reflective process that involves
           psychodynamic theory and developmental psychology. It uses art and the
           creative process to therapeutically explore and resolve emotional
@@ -33,8 +33,8 @@ blocks:
           Drawing, painting, sculpting, clay work, crafting, sewing, collage,
           embroidery, and construction are just some of the many creative paths
           a person can use during art therapy.
-        name: Art Therapy
-      - description: >-
+      - name: Cognitive Behavioural Therapy
+        description: >-
           CBT is based on the philosophy that individuals tend to incorporate
           faulty thinking, which leads to emotional and behavioural
           disturbances. Therapy primarily focuses on cognitive and behavioural
@@ -42,8 +42,8 @@ blocks:
           doing, and re-deciding. CBT utilizes interventions that are action
           oriented and incorporates learning processes which include acquiring
           and practicing new skills and challenging faulty thinking patterns.
-        name: Cognitive Behavioural Therapy
-      - description: >-
+      - name: Solution Focused Therapy
+        description: >-
           The goals of SFT are to change the way clients view their current
           problems, while learning strategies to cope with their present and
           future circumstances. The therapist and client collaboratively
@@ -51,10 +51,11 @@ blocks:
           changes. SFT focuses on externalizing problems and looking for
           exceptions to the problem. SFT utilizes treatment interventions that
           highlight clients’ strengths and improve coping skills.
-        name: Solution Focused Therapy
-  - _template: about-profiles
-    partners:
-      - bio: >-
+    _template: feature-split
+  - partners:
+      - name: Katie Murray
+        img: /uploads/IMG_6430-1.jpeg
+        bio: >-
           Katie graduated in 2017 from the Kutenai Art Therapy Institute (KATI)
           which is located in Nelson, British Columbia. KATI is an accredited
           institute and is recognized by both the BC Art Therapy Association and
@@ -83,9 +84,9 @@ blocks:
           to Nelson, BC to begin her training and fell in love with art therapy.
           Katie is eager and excited to share the benefits of art therapy with
           others.
-        img: /uploads/IMG_6430-1.jpeg
-        name: Katie Murray
-      - bio: >-
+      - name: Stephanie Dawson
+        img: /uploads/IMG_8033-1.jpeg
+        bio: >-
           Stephanie graduated from the nationally recognized Graduate Centre for
           Applied Psychology, Athabasca University with her master's of
           counselling degree with specialization in counselling psychology.
@@ -112,10 +113,8 @@ blocks:
           Stephanie has lived on PEI for her entire life. She is married with
           three beautiful children whose relationships guide her interest in
           sibling and family dynamics.
-        img: /uploads/IMG_8033-1.jpeg
-        name: Stephanie Dawson
-  - _template: feature-description
-    heading: Beyond the Bridge Books
+    _template: about-profiles
+  - heading: Beyond the Bridge Books
     subheading: >-
       _Dinos Have Emotions_ is a therapeutic children’s book that explores ten
       unique Dinos and their emotions: Sadness, Happiness, Anger, Love, Disgust,
@@ -135,10 +134,9 @@ blocks:
 
       ![](/uploads/screenshot-2022-12-12-at-12-14-09-pm.png)
     sectionid: ''
+    _template: feature-description
   - heading: The Space
-    sectionid: gallery
     subheading: ''
-    _template: gallery
     images:
       - img: 1.jpeg
       - img: 2.jpeg
@@ -158,8 +156,8 @@ blocks:
       - img: 16.jpeg
       - img: 17.jpeg
       - img: 18.jpeg
+    _template: gallery
   - heading: Hours
-    sectionid: ''
     subheading: |-
       Monday              9:00 am to 5:00 pm  
       Tuesday              9:00 am to 5:00 pm  
@@ -168,17 +166,17 @@ blocks:
       Friday                 9:00 am to 5:00 pm  
       Saturday                     CLOSED  
       Sunday                       CLOSED
+    sectionid: ''
     _template: feature-description
   - heading: Cost of Services
-    sectionid: services
     subheading: >-
       Our services are $120 ($138 with HST) per session.  
 
       This includes the initial Intake Session.
 
 
-      Group art therapy sessions **up to 5 members** cost $150. With taxes it
-      comes to $172.50.  
+      Group art therapy sessions **up to 5 members** cost $275. With taxes it
+      comes to $316.25.  
 
       Group art therapy sessions **above 5 members** cost $200 (plus taxes)
       **_AND_ an additional charge per person.**
@@ -191,18 +189,16 @@ blocks:
 
       It is up to our clients to submit their receipts to be reimbursed, if
       covered under their personal health insurance.
+    sectionid: services
     _template: feature-description
   - heading: Contact Us
-    recipientEmail: kmurrayarttherapy@gmail.com
-    recipient_email: beyondthebridgetherapy@gmail.com
-    sendButtonText: Send Message
-    sendbuttontext: Send Message
     subheading: >-
       Thank-you for reaching out to us! Please know that it may take us 2-3
       business days to reply, but we will respond to your inquiries as soon as
       we can. We appreciate your patience, and we look forward to supporting
       you! 
+    sendbuttontext: Send Message
+    recipient_email: beyondthebridgetherapy@gmail.com
     _template: contact
-_template: homepage
 ---
 
