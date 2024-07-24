@@ -170,16 +170,15 @@ blocks:
     _template: feature-description
   - heading: Cost of Services
     subheading: >-
-      Our services are $120 ($138 with HST) per session.  
+      Our services are $140 per session.  
 
       This includes the initial Intake Session.
 
 
-      Group art therapy sessions **up to 5 members** cost $275. With taxes it
-      comes to $316.25.  
+      Group art therapy sessions **up to 5 members** cost $275.
 
-      Group art therapy sessions **above 5 members** cost $200 (plus taxes)
-      **_AND_ an additional charge per person.**
+      Group art therapy sessions **above 5 members** cost $375 **_AND_ an
+      additional charge per person.**
 
 
       Every insurance company is different and each insurance plan is unique.
