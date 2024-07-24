@@ -2,56 +2,68 @@ baseurl = "https://beyondthebridge.ca/"
 languageCode = "en-us"
 theme = "prologue"
 title = "Prologue"
+_template = "config"
+
 [params]
 copyright = "Beyond the Bridge Therapy Centre "
 description = "902-436-3945"
 description2 = "107 Walker Avenue, Unit 3, Summerside, PE C1N 0C9                                                          ----------------------------------- Mailing Address: P.O. Box 1482 Summerside PE, C1N 4K4"
 logo = "/uploads/beyond_the_bridge_2.svg"
 name = "Beyond the Bridge Therapy Centre"
-[params.seo]
-description = "At Beyond the Bridge Therapy Centre, it is our aim to work collaboratively with our clients on their self-directed therapeutic journey."
-image = "/uploads/Beyond the Bridge Logo.jpg"
-title = "Beyond The Bridge Therapy Centre"
-[[params.sidemenus]]
-icon = "fa-rocket"
-id = "portfolio-link"
-link = "#portfolio"
-text = "Mission Statement"
-[[params.sidemenus]]
-icon = "fa-eye"
-id = "about-link"
-link = "#skills"
-text = "Individual Therapy"
-[[params.sidemenus]]
-icon = "fa-paint-brush"
-id = "about-link"
-link = "#skills"
-text = "Art Therapy"
-[[params.sidemenus]]
-icon = "fa-user"
-id = "about-link"
-link = "#about"
-text = "About Us"
-[[params.sidemenus]]
-icon = "fa-home"
-id = "gallery"
-link = "#gallery"
-text = "The Space"
-[[params.sidemenus]]
-icon = "fa-briefcase"
-id = "service-link"
-link = "#services"
-text = "Services "
-[[params.sidemenus]]
-icon = "fa-envelope"
-id = "contact-link"
-link = "#contact"
-text = "Contact"
-[[params.social]]
-icon = "facebook"
-link = "https://www.facebook.com/BeyondtheBridgeTherapy/"
-medium = "facebook"
-[[params.social]]
-icon = "instagram"
-link = "https://www.instagram.com/beyondthebridgetherapy/"
-medium = "instagram"
+
+  [params.seo]
+  description = "At Beyond the Bridge Therapy Centre, it is our aim to work collaboratively with our clients on their self-directed therapeutic journey."
+  image = "/uploads/Beyond the Bridge Logo.jpg"
+  title = "Beyond The Bridge Therapy Centre"
+
+  [[params.sidemenus]]
+  icon = "fa-rocket"
+  id = "portfolio-link"
+  link = "#portfolio"
+  text = "Mission Statement"
+
+  [[params.sidemenus]]
+  icon = "fa-eye"
+  id = "about-link"
+  link = "#skills"
+  text = "Individual Therapy"
+
+  [[params.sidemenus]]
+  icon = "fa-paint-brush"
+  id = "about-link"
+  link = "#skills"
+  text = "Art Therapy"
+
+  [[params.sidemenus]]
+  icon = "fa-user"
+  id = "about-link"
+  link = "#about"
+  text = "About Us"
+
+  [[params.sidemenus]]
+  icon = "fa-home"
+  id = "gallery"
+  link = "#gallery"
+  text = "The Space"
+
+  [[params.sidemenus]]
+  icon = "fa-briefcase"
+  id = "service-link"
+  link = "#services"
+  text = "Services "
+
+  [[params.sidemenus]]
+  icon = "fa-envelope"
+  id = "contact-link"
+  link = "#contact"
+  text = "Contact"
+
+  [[params.social]]
+  icon = "facebook"
+  link = "https://www.facebook.com/BeyondtheBridgeTherapy/"
+  medium = "facebook"
+
+  [[params.social]]
+  icon = "instagram"
+  link = "https://www.instagram.com/beyondthebridgetherapy/"
+  medium = "instagram"

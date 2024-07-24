@@ -18,7 +18,10 @@
   },
   "homepage": "https://github.com/jamespohalloran/beyondTheBridge#readme",
   "dependencies": {
-    "@tinacms/cli": "^1.0.2",
-    "tinacms": "^1.0.2"
+    "@tinacms/cli": "^1.5.50",
+    "tinacms": "^2.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.12"
   }
 }
