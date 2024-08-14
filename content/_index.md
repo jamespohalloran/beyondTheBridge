@@ -56,18 +56,20 @@ blocks:
       - name: Katie Murray
         img: /uploads/IMG_6430-1.jpeg
         bio: >-
-          Katie graduated in 2017 from the Kutenai Art Therapy Institute (KATI)
-          which is located in Nelson, British Columbia. KATI is an accredited
-          institute and is recognized by both the BC Art Therapy Association and
-          the Canadian Art Therapy Association (CATA). As part of the
-          requirements for graduating, Katie completed 700 hours of clinical
-          work, two years of theoretical course work, two years of personal
-          therapy, and wrote a thesis entitled, “It Takes a Village: The Value
-          of Co-Creation in School-Based Art Therapy.” Katie is a professional
-          member of the Canadian Art Therapy Association (CATA) and a member of
-          the Prince Edward Island Counselling Association (PEICA). In addition
-          to her art therapy training, Katie has a bachelor’s degree of arts
-          from the University of Prince Edward Island (UPEI).
+          Katie graduated in 2017 from the Kutenai Art Therapy Institute
+          (K.A.T.I.) which is located in Nelson, British Columbia. K.A.T.I. is
+          an accredited institute and is recognized by both the BC Art Therapy
+          Association and the Canadian Art Therapy Association (CATA). As part
+          of the requirements for graduating, Katie completed 700 hours of
+          clinical work, two years of theoretical course work, two years of
+          personal therapy, and wrote a thesis entitled, “It Takes a Village:
+          The Value of Co-Creation in School-Based Art Therapy.” Katie is a
+          Registered Canadian Art Therapist with the Canadian Art Therapy
+          Association, a member of the Prince Edward Island Counselling
+          Association (PEICA) and is a Counselling Therapist through the College
+          of Counselling Therapy of Prince Edward Island. In addition to her art
+          therapy training, Katie has a bachelor’s degree of arts from the
+          University of Prince Edward Island (UPEI).
 
 
           Katie specializes in working with children and youth living with
