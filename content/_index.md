@@ -170,6 +170,8 @@ blocks:
       Friday                 9:00 am to 5:00 pm  
       Saturday                     CLOSED  
       Sunday                       CLOSED
+
+          CLOSED FOR HOLIDAYS
     sectionid: ''
     _template: feature-description
   - heading: Cost of Services
