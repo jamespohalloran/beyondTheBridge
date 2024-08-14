@@ -66,10 +66,10 @@ blocks:
           The Value of Co-Creation in School-Based Art Therapy.” Katie is a
           Registered Canadian Art Therapist with the Canadian Art Therapy
           Association, a member of the Prince Edward Island Counselling
-          Association (PEICA) and is a Counselling Therapist through the College
-          of Counselling Therapy of Prince Edward Island. In addition to her art
-          therapy training, Katie has a bachelor’s degree of arts from the
-          University of Prince Edward Island (UPEI).
+          Association (PEICA) and is a Registered Counselling Therapist through
+          the College of Counselling Therapy of Prince Edward Island (CCTPEI).
+          In addition to her art therapy training, Katie has a bachelor’s degree
+          of arts from the University of Prince Edward Island (UPEI).
 
 
           Katie specializes in working with children and youth living with
