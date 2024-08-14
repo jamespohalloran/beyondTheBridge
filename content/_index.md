@@ -97,11 +97,13 @@ blocks:
           dissertation is entitled, "Effects of Adlerian Birth Order and
           Disabilities on Sibling Relational Dynamics: An Inclusive Heuristic
           Inquiry.” Stephanie is a professional member of the Canadian
-          Counselling and Psychotherapy Association (CCPA) and the Prince Edward
-          Island Counselling Association (PEICA). In addition to her master’s
-          degree, Stephanie holds a bachelor’s of science degree from the
-          University of Prince Edward Island (UPEI) where she majored in
-          psychology and minored in biology.
+          Counselling and Psychotherapy Association (CCPA), the Prince Edward
+          Island Counselling Association (PEICA), and is a Registered
+          Counselling Therapist with the College of Counselling Therapy of
+          Prince Edward Island (CCTPEI). In addition to her master’s degree,
+          Stephanie holds a bachelor’s of science degree from the University of
+          Prince Edward Island (UPEI) where she majored in psychology and
+          minored in biology.
 
 
           Stephanie takes a holistic approach to her work with individuals aged
