@@ -230,6 +230,7 @@ blocks:
     subheading: >
       What is Psychological Testing?
 
+
       Psychological testing/assessment offers valuable insights into an
       individual's unique characteristics and abilities by carefully gathering,
       integrating, and interpreting relevant information. These assessments
@@ -240,6 +241,7 @@ blocks:
 
 
       What are the Steps to an Assessment?
+
 
       Intake Interview
 
@@ -252,12 +254,14 @@ blocks:
 
       What Types of Assessments do we Offer?
 
+
       Our team works with children (ages 6+) and adults to complete a variety of
       assessments, including psychoeducational, mental health, ADHD, ASD, and
       giftedness. 
 
 
       How Much Does an Assessment Cost?
+
 
       Assessments vary in cost based on several factors. We invite you to
       contact us at 587-415-0482 to obtain a service quote. Our team strives to
