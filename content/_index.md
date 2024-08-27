@@ -176,9 +176,8 @@ blocks:
     _template: feature-description
   - heading: Cost of Services
     subheading: >-
-      Our services are $140 per session.  
-
-      This includes the initial Intake Session.
+      Our services are $140 per session. This includes the initial Intake
+      Session.
 
 
       Group art therapy sessions **up to 5 members** cost $275.
@@ -189,11 +188,9 @@ blocks:
 
       Every insurance company is different and each insurance plan is unique.
       Some health insurance companies may cover our therapy services, depending
-      on the individual's insurance plan, but we do not do direct billing.
-
-
-      It is up to our clients to submit their receipts to be reimbursed, if
-      covered under their personal health insurance.
+      on the individual's insurance plan, but we do not do direct billing. It is
+      up to our clients to submit their receipts to be reimbursed, if covered
+      under their personal health insurance.
     sectionid: services
     _template: feature-description
   - partners:
