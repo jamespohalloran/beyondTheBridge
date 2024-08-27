@@ -270,6 +270,12 @@ blocks:
       the assessment. Please note that we do not offer direct billing; however,
       we will provide you with a receipt to submit to your insurance company for
       reimbursement.
+
+
+      Visit our website www.onyxassessments.ca
+
+
+      Find us on Instagram www.instagram.com/onyxassessments
     _template: feature-description
   - heading: Contact Us
     subheading: >-
