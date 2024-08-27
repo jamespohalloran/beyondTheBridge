@@ -230,6 +230,7 @@ blocks:
     subheading: >
       _What is Psychological Testing?_
 
+
       Psychological testing/assessment offers valuable insights into an
       individual's unique characteristics and abilities by carefully gathering,
       integrating, and interpreting relevant information. These assessments
@@ -239,22 +240,14 @@ blocks:
       monitoring progress.
 
 
-      What are the Steps to an Assessment?
+      _What are the Steps to an Assessment?_
 
 
-      1)Intake Interview
+      1) Intake Interview 2) Assessment Sessions 3) Collaboration with Support
+      Team 4) Feedback Meeting & Comprehensive Report
 
 
-      2)Assessment Sessions
-
-
-      3)Collaboration with Support Team
-
-
-      4)Feedback Meeting & Comprehensive Report
-
-
-      What Types of Assessments do we Offer?
+      _What Types of Assessments do we Offer?_
 
 
       Our team works with children (ages 6+) and adults to complete a variety of
@@ -262,7 +255,7 @@ blocks:
       giftedness. 
 
 
-      How Much Does an Assessment Cost?
+      _How Much Does an Assessment Cost?_
 
 
       Assessments vary in cost based on several factors. We invite you to
