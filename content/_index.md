@@ -225,39 +225,41 @@ blocks:
     _template: about-profiles
   - heading: Psychological Testing
     subheading: >
-      _What is Psychological Testing?_          Psychological testing/assessment
-      offers valuable insights into an individual's unique characteristics and
-      abilities by carefully gathering, integrating, and interpreting relevant
-      information. These assessments encompass a variety of tests designed to
-      measure numerous factors, including intelligence, behaviour, emotions, and
-      more. Assessments play a critical role in diagnosing conditions,
-      formulating treatment plans, and monitoring progress.
+      _What is Psychological Testing?_          
+
+      **Psychological testing/assessment offers valuable insights into an
+      individual's unique characteristics and abilities by carefully gathering,
+      integrating, and interpreting relevant information. These assessments
+      encompass a variety of tests designed to measure numerous factors,
+      including intelligence, behaviour, emotions, and more. Assessments play a
+      critical role in diagnosing conditions, formulating treatment plans, and
+      monitoring progress.**
 
 
-      _What are the Steps to an Assessment?_          We start with an Intake
-      interview. After that is complete, we begin the assessment sessions and
-      collaborate with our Support Team. When that is done, a feedback meeting
-      is scheduled and the comprehensive report is presented.
+      _What are the Steps to an Assessment?_          
+
+      **We start with an Intake interview. After that is complete, we begin the
+      assessment sessions and collaborate with our Support Team. When that is
+      done, a feedback meeting is scheduled and the comprehensive report is
+      presented.**
 
 
       _What Types of Assessments do we Offer?_
 
-
-      Our team works with children (ages 6+) and adults to complete a variety of
-      assessments, including psychoeducational, mental health, ADHD, ASD, and
-      giftedness. 
+      **Our team works with children (ages 6+) and adults to complete a variety
+      of assessments, including psychoeducational, mental health, ADHD, ASD, and
+      giftedness.** 
 
 
       _How Much Does an Assessment Cost?_
 
-
-      Assessments vary in cost based on several factors. We invite you to
+      **Assessments vary in cost based on several factors. We invite you to
       contact us at 587-415-0482 to obtain a service quote. Our team strives to
       accommodate your budget, ensuring that we provide you with a service quote
       to present to your insurance company for approval before proceeding with
       the assessment. Please note that we do not offer direct billing; however,
       we will provide you with a receipt to submit to your insurance company for
-      reimbursement.
+      reimbursement.**
 
 
       Visit our website www.onyxassessments.ca
