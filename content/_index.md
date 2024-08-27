@@ -236,12 +236,15 @@ blocks:
       monitoring progress.**
 
 
-      _What are the Steps to an Assessment?_          
+      _What are the Steps to an Assessment?_ 
 
-      **We start with an Intake interview. After that is complete, we begin the
-      assessment sessions and collaborate with our Support Team. When that is
-      done, a feedback meeting is scheduled and the comprehensive report is
-      presented.**
+      **1) Intake Interview
+
+      2) Assessment Sessions
+
+      3) Collaboration with Support Team
+
+      4) Feedback Meeting & Comprehensive Report** 
 
 
       _What Types of Assessments do we Offer?_
