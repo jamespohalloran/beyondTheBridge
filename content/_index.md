@@ -228,23 +228,19 @@ blocks:
     _template: about-profiles
   - heading: Psychological Testing
     subheading: >
-      _What is Psychological Testing?_
+      _What is Psychological Testing?_          Psychological testing/assessment
+      offers valuable insights into an individual's unique characteristics and
+      abilities by carefully gathering, integrating, and interpreting relevant
+      information. These assessments encompass a variety of tests designed to
+      measure numerous factors, including intelligence, behaviour, emotions, and
+      more. Assessments play a critical role in diagnosing conditions,
+      formulating treatment plans, and monitoring progress.
 
 
-      Psychological testing/assessment offers valuable insights into an
-      individual's unique characteristics and abilities by carefully gathering,
-      integrating, and interpreting relevant information. These assessments
-      encompass a variety of tests designed to measure numerous factors,
-      including intelligence, behaviour, emotions, and more. Assessments play a
-      critical role in diagnosing conditions, formulating treatment plans, and
-      monitoring progress.
-
-
-      _What are the Steps to an Assessment?_
-
-
-      1) Intake Interview 2) Assessment Sessions 3) Collaboration with Support
-      Team 4) Feedback Meeting & Comprehensive Report
+      _What are the Steps to an Assessment?_          We start with an Intake
+      interview. After that is complete, we begin the assessment sessions and
+      collaborate with our Support Team. When that is done, a feedback meeting
+      is scheduled and the comprehensive report is presented.
 
 
       _What Types of Assessments do we Offer?_
