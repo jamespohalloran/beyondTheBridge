@@ -228,8 +228,7 @@ blocks:
     _template: about-profiles
   - heading: Psychological Testing
     subheading: >
-      What is Psychological Testing?
-
+      _What is Psychological Testing?_
 
       Psychological testing/assessment offers valuable insights into an
       individual's unique characteristics and abilities by carefully gathering,
