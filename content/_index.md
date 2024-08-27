@@ -233,7 +233,7 @@ blocks:
           Sessions: In Person & Virtual
     _template: about-profiles
   - heading: Psychological Testing
-    subheading: >
+    subheading: >+
       _What is Psychological Testing?_          
 
       **Psychological testing/assessment offers valuable insights into an
@@ -278,6 +278,7 @@ blocks:
 
 
       Find us on Instagram www.instagram.com/onyxassessments
+
     _template: feature-description
 ---
 
