@@ -243,13 +243,16 @@ blocks:
       What are the Steps to an Assessment?
 
 
-      Intake Interview
+      1)Intake Interview
 
-      Assessment Sessions
 
-      Collaboration with Support Team
+      2)Assessment Sessions
 
-      Feedback Meeting & Comprehensive Report
+
+      3)Collaboration with Support Team
+
+
+      4)Feedback Meeting & Comprehensive Report
 
 
       What Types of Assessments do we Offer?
