@@ -236,7 +236,7 @@ blocks:
       monitoring progress.**
 
 
-      _What are the Steps to an Assessment?_ 
+      _What are the Steps to an Assessment?_
 
       **1) Intake Interview
 
