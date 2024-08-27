@@ -193,7 +193,7 @@ blocks:
       under their personal health insurance.
     sectionid: services
     _template: feature-description
-  - heading: Contact Us
+  - heading: Contact Beyond the Bridge Therapy Centre
     subheading: >-
       Thank-you for reaching out to us! Please know that it may take us 2-3
       business days to reply, but we will respond to your inquiries as soon as
