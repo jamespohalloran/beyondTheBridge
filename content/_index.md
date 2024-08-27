@@ -193,6 +193,15 @@ blocks:
       under their personal health insurance.
     sectionid: services
     _template: feature-description
+  - heading: Contact Us
+    subheading: >-
+      Thank-you for reaching out to us! Please know that it may take us 2-3
+      business days to reply, but we will respond to your inquiries as soon as
+      we can. We appreciate your patience, and we look forward to supporting
+      you! 
+    sendbuttontext: Send Message
+    recipient_email: beyondthebridgetherapy@gmail.com
+    _template: contact
   - partners:
       - name: Brittany Norlin
         img: /BrittanyNorlin.jpeg
@@ -271,14 +280,5 @@ blocks:
 
       Find us on Instagram www.instagram.com/onyxassessments
     _template: feature-description
-  - heading: Contact Us
-    subheading: >-
-      Thank-you for reaching out to us! Please know that it may take us 2-3
-      business days to reply, but we will respond to your inquiries as soon as
-      we can. We appreciate your patience, and we look forward to supporting
-      you! 
-    sendbuttontext: Send Message
-    recipient_email: beyondthebridgetherapy@gmail.com
-    _template: contact
 ---
 
