@@ -220,6 +220,47 @@ blocks:
 
           Sessions: In Person & Virtual
     _template: about-profiles
+  - heading: Psychological Testing
+    subheading: >
+      What is Psychological Testing?
+
+      Psychological testing/assessment offers valuable insights into an
+      individual's unique characteristics and abilities by carefully gathering,
+      integrating, and interpreting relevant information. These assessments
+      encompass a variety of tests designed to measure numerous factors,
+      including intelligence, behaviour, emotions, and more. Assessments play a
+      critical role in diagnosing conditions, formulating treatment plans, and
+      monitoring progress.
+
+
+      What are the Steps to an Assessment?
+
+      Intake Interview
+
+      Assessment Sessions
+
+      Collaboration with Support Team
+
+      Feedback Meeting & Comprehensive Report
+
+
+      What Types of Assessments do we Offer?
+
+      Our team works with children (ages 6+) and adults to complete a variety of
+      assessments, including psychoeducational, mental health, ADHD, ASD, and
+      giftedness. 
+
+
+      How Much Does an Assessment Cost?
+
+      Assessments vary in cost based on several factors. We invite you to
+      contact us at 587-415-0482 to obtain a service quote. Our team strives to
+      accommodate your budget, ensuring that we provide you with a service quote
+      to present to your insurance company for approval before proceeding with
+      the assessment. Please note that we do not offer direct billing; however,
+      we will provide you with a receipt to submit to your insurance company for
+      reimbursement.
+    _template: feature-description
   - heading: Contact Us
     subheading: >-
       Thank-you for reaching out to us! Please know that it may take us 2-3
