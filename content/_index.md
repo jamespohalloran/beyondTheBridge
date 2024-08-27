@@ -197,6 +197,17 @@ blocks:
     sectionid: services
     _template: feature-description
   - partners:
+      - name: Brittany Norlin
+        img: /BrittanyNorlin.jpeg
+        bio: >-
+          Position: Registered Psychologist (AB 6945 // PEI #110)
+
+          Education: Master of Science, Educational Psychology Specialization:
+          School and Applied Child Psychology, University of Calgary
+
+          Fees: $210/hr
+
+          Sessions: In Person & Virtual
       - name: Sarah Melville
         img: /SarahMelville.jpeg
         bio: >-
