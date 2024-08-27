@@ -128,7 +128,7 @@ blocks:
       skills that promote self-regulation.
 
 
-      The cost is $22 (tax included) per book.
+      The cost is $20 per book.
 
 
       You can find copies available at our centre. If you are not local to
