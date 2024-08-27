@@ -202,10 +202,13 @@ blocks:
         bio: >-
           Registered Psychologist (AB 6945 // PEI #110)
 
+
           Education: Master of Science, Educational Psychology Specialization:
           School and Applied Child Psychology, University of Calgary
 
+
           Fees: $210/hr
+
 
           Sessions: In Person & Virtual
       - name: Sarah Melville
@@ -213,10 +216,13 @@ blocks:
         bio: >-
           Registered Psychologist (AB 6943 // PEI #121)
 
+
           Education: Master of Education, Educational Psychology Specialization:
           School and Applied Child Psychology, University of Calgary
 
+
           Fees: $210/hr
+
 
           Sessions: In Person & Virtual
     _template: about-profiles
