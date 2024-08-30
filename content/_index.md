@@ -68,8 +68,7 @@ blocks:
           Association (PEICA), and is a Registered Counselling Therapist with
           the College of Counselling Therapy of Prince Edward Island (CCTPEI).
           In addition to her master’s degree, Stephanie holds a Bachelor’s of
-          Science Degree from the University of Prince Edward Island (UPEI)
-          where she majored in psychology and minored in biology.
+          Science Degree from the University of Prince Edward Island (UPEI).
 
 
           Stephanie takes a holistic approach to her work with individuals aged
