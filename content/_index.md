@@ -212,7 +212,7 @@ blocks:
 
       **Our team works with children (ages 6+) and adults to complete a variety
       of assessments, including psychoeducational, mental health, ADHD, ASD, and
-      giftedness.** 
+      giftedness.**
 
 
       _How Much Does an Assessment Cost?_
