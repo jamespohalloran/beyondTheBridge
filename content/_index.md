@@ -64,13 +64,17 @@ blocks:
           Island (CCTPEI). In addition to her art therapy training, Katie has a
           Bachelor’s Degree of Arts from the University of Prince Edward Island.
 
-
           Katie specializes in working with school-age children and youth living
           with anxiety disorders, Autism Spectrum Disorder, self-esteem
           difficulties, and behaviour problems. She also specializes in working
           with adults living with physical, cognitive, and developmental
           disabilities. These include, but are not limited to: Autism Spectrum
           Disorder, Fetal Alcohol Spectrum Disorders and Down syndrome.
+
+
+          RCAT #390-R-24
+
+          CT #303
       - name: Stephanie Dawson
         img: /uploads/IMG_8033-1.jpeg
         bio: >
