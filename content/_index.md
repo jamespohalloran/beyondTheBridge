@@ -34,7 +34,21 @@ blocks:
           embroidery, and construction are just some of the many creative paths
           a person can use during art therapy.
       - name: Talk Therapy
-        description: ''
+        description: >-
+          The goals of SFT are to change the way clients view their current
+          problems, while learning strategies to cope with their present and
+          future circumstances. The therapist and client collaboratively
+          establish clear, specific, concrete goals to promote/increase positive
+          changes. SFT focuses on externalizing problems and looking for
+          exceptions to the problem. SFT utilizes treatment interventions that
+          highlight clients’ strengths and improve coping skills.    CBT is
+          based on the philosophy that individuals tend to incorporate faulty
+          thinking, which leads to emotional and behavioural disturbances.
+          Therapy primarily focuses on cognitive and behavioural distortions,
+          and stresses the role of thinking, deciding, questioning, doing, and
+          re-deciding. CBT utilizes interventions that are action oriented and
+          incorporates learning processes which include acquiring and practicing
+          new skills and challenging faulty thinking patterns.
     _template: feature-split
   - partners:
       - name: Katie Murray
