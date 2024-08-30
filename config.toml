@@ -32,7 +32,7 @@ name = "Beyond the Bridge Therapy Centre"
   icon = "fa-user"
   id = "about-link"
   link = "#about"
-  text = "About Us"
+  text = "About Us - Counselling Team"
 
   [[params.sidemenus]]
   icon = "fa-home"
