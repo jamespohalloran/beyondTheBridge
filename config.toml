@@ -50,7 +50,7 @@ name = "Beyond the Bridge Therapy Centre"
   icon = "fa-user"
   id = "about-link"
   link = "#about"
-  text = "About Us - Assessment Team"
+  text = "Assessment Team"
 
   [[params.sidemenus]]
   icon = "fa-envelope"
