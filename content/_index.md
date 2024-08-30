@@ -57,7 +57,9 @@ blocks:
           Disorder, Fetal Alcohol Spectrum Disorders and Down syndrome.
 
 
-          RCAT #390-R-24              CT #303
+          RCAT #390-R-24
+
+          CT #303
       - name: Stephanie Dawson
         img: /uploads/IMG_8033-1.jpeg
         bio: >
