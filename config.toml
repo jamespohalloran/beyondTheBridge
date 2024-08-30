@@ -11,6 +11,8 @@ logo = "/uploads/beyond_the_bridge_2.svg"
 name = "Beyond the Bridge Therapy Centre"
 
   [[params.sidemenus]]
+
+  [[params.sidemenus]]
   icon = "fa-rocket"
   id = "portfolio-link"
   link = "#portfolio"
