@@ -56,12 +56,13 @@ blocks:
       - name: Katie Murray
         img: /uploads/IMG_6430-1.jpeg
         bio: >-
-          Katie is a Registered Canadian Art Therapist with the Canadian Art
-          Therapy Association, a member of the Prince Edward Island Counselling
-          Association (PEICA) and is a Registered Counselling Therapist through
-          the College of Counselling Therapy of Prince Edward Island (CCTPEI).
-          In addition to her art therapy training, Katie has a bachelor’s degree
-          of arts from the University of Prince Edward Island (UPEI).
+          Katie graduated from the Kutenai Art Therapy Institute in Nelson, BC.
+          She is a Registered Canadian Art Therapist (RCAT) with the Canadian
+          Art Therapy Association (CATA), a member of the Prince Edward Island
+          Counselling Association (PEICA) and is a Registered Counselling
+          Therapist through the College of Counselling Therapy of Prince Edward
+          Island (CCTPEI). In addition to her art therapy training, Katie has a
+          Bachelor’s Degree of Arts from the University of Prince Edward Island.
 
 
           Katie specializes in working with school-age children and youth living
