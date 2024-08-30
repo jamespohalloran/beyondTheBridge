@@ -46,7 +46,7 @@ blocks:
           Counselling Association (PEICA) and is a Registered Counselling
           Therapist through the College of Counselling Therapy of Prince Edward
           Island (CCTPEI). In addition to her art therapy training, Katie has a
-          Bachelor of Art Degree from the University of Prince Edward Island.
+          Bachelor of Arts Degree from the University of Prince Edward Island.
 
 
           Katie specializes in working with school-age children and youth living
