@@ -42,15 +42,8 @@ blocks:
           doing, and re-deciding. CBT utilizes interventions that are action
           oriented and incorporates learning processes which include acquiring
           and practicing new skills and challenging faulty thinking patterns.
-      - name: Solution Focused Therapy
-        description: >-
-          The goals of SFT are to change the way clients view their current
-          problems, while learning strategies to cope with their present and
-          future circumstances. The therapist and client collaboratively
-          establish clear, specific, concrete goals to promote/increase positive
-          changes. SFT focuses on externalizing problems and looking for
-          exceptions to the problem. SFT utilizes treatment interventions that
-          highlight clients’ strengths and improve coping skills.
+      - name: ''
+        description: ''
     _template: feature-split
   - partners:
       - name: Katie Murray
