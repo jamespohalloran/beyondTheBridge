@@ -75,8 +75,8 @@ blocks:
         img: /uploads/IMG_8033-1.jpeg
         bio: >-
           Stephanie graduated from the nationally recognized Graduate Centre for
-          Applied Psychology, Athabasca University with her master's of
-          counselling degree with specialization in counselling psychology.
+          Applied Psychology, Athabasca University with her Master's of
+          Counselling Degree with specialization in Counselling Psychology.
           During her studies, Stephanie completed a 500-hour internship under
           the supervision of a registered psychologist. Stephanie’s thesis
           dissertation is entitled, "Effects of Adlerian Birth Order and
