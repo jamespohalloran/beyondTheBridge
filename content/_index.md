@@ -48,6 +48,7 @@ blocks:
           Island (CCTPEI). In addition to her art therapy training, Katie has a
           Bachelor’s Degree of Arts from the University of Prince Edward Island.
 
+
           Katie specializes in working with school-age children and youth living
           with anxiety disorders, Autism Spectrum Disorder, self-esteem
           difficulties, and behaviour problems. She also specializes in working
