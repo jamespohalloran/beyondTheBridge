@@ -17,22 +17,22 @@ name = "Beyond the Bridge Therapy Centre"
   text = "Mission Statement"
 
   [[params.sidemenus]]
-  icon = "fa-eye"
-  id = "about-link"
-  link = "#skills"
-  text = "Talk Therapy"
-
-  [[params.sidemenus]]
   icon = "fa-paint-brush"
   id = "about-link"
   link = "#skills"
   text = "Art Therapy"
 
   [[params.sidemenus]]
+  icon = "fa-eye"
+  id = "about-link"
+  link = "#skills"
+  text = "Talk Therapy"
+
+  [[params.sidemenus]]
   icon = "fa-user"
   id = "about-link"
   link = "#about"
-  text = "About Us - Counselling Team"
+  text = "Counselling Team"
 
   [[params.sidemenus]]
   icon = "fa-home"
