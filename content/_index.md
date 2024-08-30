@@ -33,16 +33,7 @@ blocks:
           Drawing, painting, sculpting, clay work, crafting, sewing, collage,
           embroidery, and construction are just some of the many creative paths
           a person can use during art therapy.
-      - name: Cognitive Behavioural Therapy
-        description: >-
-          CBT is based on the philosophy that individuals tend to incorporate
-          faulty thinking, which leads to emotional and behavioural
-          disturbances. Therapy primarily focuses on cognitive and behavioural
-          distortions, and stresses the role of thinking, deciding, questioning,
-          doing, and re-deciding. CBT utilizes interventions that are action
-          oriented and incorporates learning processes which include acquiring
-          and practicing new skills and challenging faulty thinking patterns.
-      - name: ''
+      - name: Talk Therapy
         description: ''
     _template: feature-split
   - partners:
