@@ -11,12 +11,6 @@ logo = "/uploads/beyond_the_bridge_2.svg"
 name = "Beyond the Bridge Therapy Centre"
 
   [[params.sidemenus]]
-  icon = "fa-user"
-  id = "about-link"
-  link = "#about"
-  text = "About Us - Assessment Team"
-
-  [[params.sidemenus]]
   icon = "fa-rocket"
   id = "portfolio-link"
   link = "#portfolio"
@@ -51,6 +45,12 @@ name = "Beyond the Bridge Therapy Centre"
   id = "service-link"
   link = "#services"
   text = "Services "
+
+  [[params.sidemenus]]
+  icon = "fa-user"
+  id = "about-link"
+  link = "#about"
+  text = "About Us - Assessment Team"
 
   [[params.sidemenus]]
   icon = "fa-envelope"
