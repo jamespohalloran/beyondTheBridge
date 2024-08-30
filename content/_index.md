@@ -73,22 +73,16 @@ blocks:
           Disorder, Fetal Alcohol Spectrum Disorders and Down syndrome.
       - name: Stephanie Dawson
         img: /uploads/IMG_8033-1.jpeg
-        bio: >-
-          Stephanie graduated from the nationally recognized Graduate Centre for
-          Applied Psychology, Athabasca University with her Master's of
+        bio: >
+          Stephanie graduated from Athabasca University with her Master's of
           Counselling Degree with specialization in Counselling Psychology.
-          During her studies, Stephanie completed a 500-hour internship under
-          the supervision of a registered psychologist. Stephanie’s thesis
-          dissertation is entitled, "Effects of Adlerian Birth Order and
-          Disabilities on Sibling Relational Dynamics: An Inclusive Heuristic
-          Inquiry.” Stephanie is a professional member of the Canadian
-          Counselling and Psychotherapy Association (CCPA), the Prince Edward
-          Island Counselling Association (PEICA), and is a Registered
-          Counselling Therapist with the College of Counselling Therapy of
-          Prince Edward Island (CCTPEI). In addition to her master’s degree,
-          Stephanie holds a bachelor’s of science degree from the University of
-          Prince Edward Island (UPEI) where she majored in psychology and
-          minored in biology.
+          Stephanie is a professional member of the Canadian Counselling and
+          Psychotherapy Association (CCPA), the Prince Edward Island Counselling
+          Association (PEICA), and is a Registered Counselling Therapist with
+          the College of Counselling Therapy of Prince Edward Island (CCTPEI).
+          In addition to her master’s degree, Stephanie holds a Bachelor’s of
+          Science Degree from the University of Prince Edward Island (UPEI)
+          where she majored in psychology and minored in biology.
 
 
           Stephanie takes a holistic approach to her work with individuals aged
@@ -97,11 +91,6 @@ blocks:
           meet the unique needs of each client, Stephanie utilizes a variety of
           therapeutic interventions including Cognitive Behavioural Therapy
           (CBT) and Solution Focused Therapy (SFT).
-
-
-          Stephanie has lived on PEI for her entire life. She is married with
-          three beautiful children whose relationships guide her interest in
-          sibling and family dynamics.
     _template: about-profiles
   - heading: Beyond the Bridge Books
     subheading: >-
