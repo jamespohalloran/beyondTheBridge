@@ -64,11 +64,11 @@ blocks:
 
 
           Katie specializes in working with school-age children and youth living
-          with anxiety disorders, Autism Spectrum Disorder, self-esteem
-          difficulties, and behaviour problems. She also specializes in working
-          with adults living with physical, cognitive, and developmental
-          disabilities. These include, but are not limited to: Autism Spectrum
-          Disorder, Fetal Alcohol Spectrum Disorders and Down syndrome.
+          with anxiety disorders, Autism Spectrum Disorder, and self-esteem
+          difficulties. She also specializes in working with adults living with
+          physical, cognitive, and developmental disabilities. These include,
+          but are not limited to: Autism Spectrum Disorder, Fetal Alcohol
+          Spectrum Disorders and Down syndrome.
 
 
           RCAT #390-R-24
